@@ -1,0 +1,3274 @@
+[
+	{
+		"fact_order_key" : 812,
+		"order_key" : 86,
+		"customer_key" : 68,
+		"ods_key" : 812,
+		"sales_rep_key" : 9,
+		"product_key" : 49
+	},
+	{
+		"fact_order_key" : 813,
+		"order_key" : 86,
+		"customer_key" : 68,
+		"ods_key" : 813,
+		"sales_rep_key" : 9,
+		"product_key" : 51
+	},
+	{
+		"fact_order_key" : 814,
+		"order_key" : 86,
+		"customer_key" : 68,
+		"ods_key" : 814,
+		"sales_rep_key" : 9,
+		"product_key" : 63
+	},
+	{
+		"fact_order_key" : 815,
+		"order_key" : 86,
+		"customer_key" : 68,
+		"ods_key" : 815,
+		"sales_rep_key" : 9,
+		"product_key" : 72
+	},
+	{
+		"fact_order_key" : 816,
+		"order_key" : 86,
+		"customer_key" : 68,
+		"ods_key" : 816,
+		"sales_rep_key" : 9,
+		"product_key" : 95
+	},
+	{
+		"fact_order_key" : 817,
+		"order_key" : 86,
+		"customer_key" : 68,
+		"ods_key" : 817,
+		"sales_rep_key" : 9,
+		"product_key" : 97
+	},
+	{
+		"fact_order_key" : 818,
+		"order_key" : 86,
+		"customer_key" : 68,
+		"ods_key" : 818,
+		"sales_rep_key" : 9,
+		"product_key" : 99
+	},
+	{
+		"fact_order_key" : 819,
+		"order_key" : 86,
+		"customer_key" : 68,
+		"ods_key" : 819,
+		"sales_rep_key" : 9,
+		"product_key" : 102
+	},
+	{
+		"fact_order_key" : 820,
+		"order_key" : 86,
+		"customer_key" : 68,
+		"ods_key" : 820,
+		"sales_rep_key" : 9,
+		"product_key" : 106
+	},
+	{
+		"fact_order_key" : 821,
+		"order_key" : 86,
+		"customer_key" : 68,
+		"ods_key" : 821,
+		"sales_rep_key" : 9,
+		"product_key" : 107
+	},
+	{
+		"fact_order_key" : 822,
+		"order_key" : 86,
+		"customer_key" : 68,
+		"ods_key" : 822,
+		"sales_rep_key" : 9,
+		"product_key" : 110
+	},
+	{
+		"fact_order_key" : 823,
+		"order_key" : 87,
+		"customer_key" : 120,
+		"ods_key" : 823,
+		"sales_rep_key" : 16,
+		"product_key" : 5
+	},
+	{
+		"fact_order_key" : 824,
+		"order_key" : 87,
+		"customer_key" : 120,
+		"ods_key" : 824,
+		"sales_rep_key" : 16,
+		"product_key" : 22
+	},
+	{
+		"fact_order_key" : 825,
+		"order_key" : 87,
+		"customer_key" : 120,
+		"ods_key" : 825,
+		"sales_rep_key" : 16,
+		"product_key" : 37
+	},
+	{
+		"fact_order_key" : 826,
+		"order_key" : 87,
+		"customer_key" : 120,
+		"ods_key" : 826,
+		"sales_rep_key" : 16,
+		"product_key" : 48
+	},
+	{
+		"fact_order_key" : 827,
+		"order_key" : 87,
+		"customer_key" : 120,
+		"ods_key" : 827,
+		"sales_rep_key" : 16,
+		"product_key" : 69
+	},
+	{
+		"fact_order_key" : 828,
+		"order_key" : 87,
+		"customer_key" : 120,
+		"ods_key" : 828,
+		"sales_rep_key" : 16,
+		"product_key" : 75
+	},
+	{
+		"fact_order_key" : 829,
+		"order_key" : 87,
+		"customer_key" : 120,
+		"ods_key" : 829,
+		"sales_rep_key" : 16,
+		"product_key" : 77
+	},
+	{
+		"fact_order_key" : 830,
+		"order_key" : 87,
+		"customer_key" : 120,
+		"ods_key" : 830,
+		"sales_rep_key" : 16,
+		"product_key" : 100
+	},
+	{
+		"fact_order_key" : 831,
+		"order_key" : 87,
+		"customer_key" : 120,
+		"ods_key" : 831,
+		"sales_rep_key" : 16,
+		"product_key" : 109
+	},
+	{
+		"fact_order_key" : 832,
+		"order_key" : 88,
+		"customer_key" : 39,
+		"ods_key" : 832,
+		"sales_rep_key" : 21,
+		"product_key" : 31
+	},
+	{
+		"fact_order_key" : 833,
+		"order_key" : 88,
+		"customer_key" : 39,
+		"ods_key" : 833,
+		"sales_rep_key" : 21,
+		"product_key" : 60
+	},
+	{
+		"fact_order_key" : 834,
+		"order_key" : 88,
+		"customer_key" : 39,
+		"ods_key" : 834,
+		"sales_rep_key" : 21,
+		"product_key" : 79
+	},
+	{
+		"fact_order_key" : 835,
+		"order_key" : 88,
+		"customer_key" : 39,
+		"ods_key" : 835,
+		"sales_rep_key" : 21,
+		"product_key" : 83
+	},
+	{
+		"fact_order_key" : 836,
+		"order_key" : 88,
+		"customer_key" : 39,
+		"ods_key" : 836,
+		"sales_rep_key" : 21,
+		"product_key" : 91
+	},
+	{
+		"fact_order_key" : 837,
+		"order_key" : 88,
+		"customer_key" : 39,
+		"ods_key" : 837,
+		"sales_rep_key" : 21,
+		"product_key" : 93
+	},
+	{
+		"fact_order_key" : 838,
+		"order_key" : 88,
+		"customer_key" : 39,
+		"ods_key" : 838,
+		"sales_rep_key" : 21,
+		"product_key" : 98
+	},
+	{
+		"fact_order_key" : 839,
+		"order_key" : 88,
+		"customer_key" : 39,
+		"ods_key" : 839,
+		"sales_rep_key" : 21,
+		"product_key" : 101
+	},
+	{
+		"fact_order_key" : 840,
+		"order_key" : 88,
+		"customer_key" : 39,
+		"ods_key" : 840,
+		"sales_rep_key" : 21,
+		"product_key" : 105
+	},
+	{
+		"fact_order_key" : 841,
+		"order_key" : 88,
+		"customer_key" : 39,
+		"ods_key" : 841,
+		"sales_rep_key" : 21,
+		"product_key" : 108
+	},
+	{
+		"fact_order_key" : 842,
+		"order_key" : 89,
+		"customer_key" : 20,
+		"ods_key" : 842,
+		"sales_rep_key" : 17,
+		"product_key" : 1
+	},
+	{
+		"fact_order_key" : 843,
+		"order_key" : 89,
+		"customer_key" : 20,
+		"ods_key" : 843,
+		"sales_rep_key" : 17,
+		"product_key" : 3
+	},
+	{
+		"fact_order_key" : 844,
+		"order_key" : 89,
+		"customer_key" : 20,
+		"ods_key" : 844,
+		"sales_rep_key" : 17,
+		"product_key" : 4
+	},
+	{
+		"fact_order_key" : 845,
+		"order_key" : 89,
+		"customer_key" : 20,
+		"ods_key" : 845,
+		"sales_rep_key" : 17,
+		"product_key" : 32
+	},
+	{
+		"fact_order_key" : 846,
+		"order_key" : 89,
+		"customer_key" : 20,
+		"ods_key" : 846,
+		"sales_rep_key" : 17,
+		"product_key" : 58
+	},
+	{
+		"fact_order_key" : 847,
+		"order_key" : 89,
+		"customer_key" : 20,
+		"ods_key" : 847,
+		"sales_rep_key" : 17,
+		"product_key" : 62
+	},
+	{
+		"fact_order_key" : 848,
+		"order_key" : 89,
+		"customer_key" : 20,
+		"ods_key" : 848,
+		"sales_rep_key" : 17,
+		"product_key" : 86
+	},
+	{
+		"fact_order_key" : 849,
+		"order_key" : 89,
+		"customer_key" : 20,
+		"ods_key" : 849,
+		"sales_rep_key" : 17,
+		"product_key" : 104
+	},
+	{
+		"fact_order_key" : 850,
+		"order_key" : 90,
+		"customer_key" : 36,
+		"ods_key" : 850,
+		"sales_rep_key" : 8,
+		"product_key" : 10
+	},
+	{
+		"fact_order_key" : 851,
+		"order_key" : 91,
+		"customer_key" : 11,
+		"ods_key" : 851,
+		"sales_rep_key" : 14,
+		"product_key" : 66
+	},
+	{
+		"fact_order_key" : 852,
+		"order_key" : 91,
+		"customer_key" : 11,
+		"ods_key" : 852,
+		"sales_rep_key" : 14,
+		"product_key" : 87
+	},
+	{
+		"fact_order_key" : 853,
+		"order_key" : 91,
+		"customer_key" : 11,
+		"ods_key" : 853,
+		"sales_rep_key" : 14,
+		"product_key" : 92
+	},
+	{
+		"fact_order_key" : 854,
+		"order_key" : 91,
+		"customer_key" : 11,
+		"ods_key" : 854,
+		"sales_rep_key" : 14,
+		"product_key" : 96
+	},
+	{
+		"fact_order_key" : 855,
+		"order_key" : 92,
+		"customer_key" : 53,
+		"ods_key" : 855,
+		"sales_rep_key" : 17,
+		"product_key" : 7
+	},
+	{
+		"fact_order_key" : 856,
+		"order_key" : 92,
+		"customer_key" : 53,
+		"ods_key" : 856,
+		"sales_rep_key" : 17,
+		"product_key" : 12
+	},
+	{
+		"fact_order_key" : 857,
+		"order_key" : 92,
+		"customer_key" : 53,
+		"ods_key" : 857,
+		"sales_rep_key" : 17,
+		"product_key" : 14
+	},
+	{
+		"fact_order_key" : 858,
+		"order_key" : 92,
+		"customer_key" : 53,
+		"ods_key" : 858,
+		"sales_rep_key" : 17,
+		"product_key" : 43
+	},
+	{
+		"fact_order_key" : 859,
+		"order_key" : 92,
+		"customer_key" : 53,
+		"ods_key" : 859,
+		"sales_rep_key" : 17,
+		"product_key" : 45
+	},
+	{
+		"fact_order_key" : 860,
+		"order_key" : 92,
+		"customer_key" : 53,
+		"ods_key" : 860,
+		"sales_rep_key" : 17,
+		"product_key" : 47
+	},
+	{
+		"fact_order_key" : 861,
+		"order_key" : 92,
+		"customer_key" : 53,
+		"ods_key" : 861,
+		"sales_rep_key" : 17,
+		"product_key" : 54
+	},
+	{
+		"fact_order_key" : 862,
+		"order_key" : 92,
+		"customer_key" : 53,
+		"ods_key" : 862,
+		"sales_rep_key" : 17,
+		"product_key" : 74
+	},
+	{
+		"fact_order_key" : 863,
+		"order_key" : 92,
+		"customer_key" : 53,
+		"ods_key" : 863,
+		"sales_rep_key" : 17,
+		"product_key" : 84
+	},
+	{
+		"fact_order_key" : 864,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 864,
+		"sales_rep_key" : 10,
+		"product_key" : 16
+	},
+	{
+		"fact_order_key" : 865,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 865,
+		"sales_rep_key" : 10,
+		"product_key" : 18
+	},
+	{
+		"fact_order_key" : 866,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 866,
+		"sales_rep_key" : 10,
+		"product_key" : 21
+	},
+	{
+		"fact_order_key" : 867,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 867,
+		"sales_rep_key" : 10,
+		"product_key" : 24
+	},
+	{
+		"fact_order_key" : 868,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 868,
+		"sales_rep_key" : 10,
+		"product_key" : 25
+	},
+	{
+		"fact_order_key" : 869,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 869,
+		"sales_rep_key" : 10,
+		"product_key" : 34
+	},
+	{
+		"fact_order_key" : 870,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 870,
+		"sales_rep_key" : 10,
+		"product_key" : 40
+	},
+	{
+		"fact_order_key" : 871,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 871,
+		"sales_rep_key" : 10,
+		"product_key" : 46
+	},
+	{
+		"fact_order_key" : 872,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 872,
+		"sales_rep_key" : 10,
+		"product_key" : 56
+	},
+	{
+		"fact_order_key" : 873,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 873,
+		"sales_rep_key" : 10,
+		"product_key" : 59
+	},
+	{
+		"fact_order_key" : 874,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 874,
+		"sales_rep_key" : 10,
+		"product_key" : 67
+	},
+	{
+		"fact_order_key" : 875,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 875,
+		"sales_rep_key" : 10,
+		"product_key" : 70
+	},
+	{
+		"fact_order_key" : 876,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 876,
+		"sales_rep_key" : 10,
+		"product_key" : 71
+	},
+	{
+		"fact_order_key" : 877,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 877,
+		"sales_rep_key" : 10,
+		"product_key" : 73
+	},
+	{
+		"fact_order_key" : 878,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 878,
+		"sales_rep_key" : 10,
+		"product_key" : 76
+	},
+	{
+		"fact_order_key" : 879,
+		"order_key" : 93,
+		"customer_key" : 86,
+		"ods_key" : 879,
+		"sales_rep_key" : 10,
+		"product_key" : 78
+	},
+	{
+		"fact_order_key" : 880,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 880,
+		"sales_rep_key" : 18,
+		"product_key" : 19
+	},
+	{
+		"fact_order_key" : 881,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 881,
+		"sales_rep_key" : 18,
+		"product_key" : 20
+	},
+	{
+		"fact_order_key" : 882,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 882,
+		"sales_rep_key" : 18,
+		"product_key" : 23
+	},
+	{
+		"fact_order_key" : 883,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 883,
+		"sales_rep_key" : 18,
+		"product_key" : 27
+	},
+	{
+		"fact_order_key" : 884,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 884,
+		"sales_rep_key" : 18,
+		"product_key" : 29
+	},
+	{
+		"fact_order_key" : 885,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 885,
+		"sales_rep_key" : 18,
+		"product_key" : 33
+	},
+	{
+		"fact_order_key" : 886,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 886,
+		"sales_rep_key" : 18,
+		"product_key" : 35
+	},
+	{
+		"fact_order_key" : 887,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 887,
+		"sales_rep_key" : 18,
+		"product_key" : 36
+	},
+	{
+		"fact_order_key" : 888,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 888,
+		"sales_rep_key" : 18,
+		"product_key" : 38
+	},
+	{
+		"fact_order_key" : 889,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 889,
+		"sales_rep_key" : 18,
+		"product_key" : 44
+	},
+	{
+		"fact_order_key" : 890,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 890,
+		"sales_rep_key" : 18,
+		"product_key" : 50
+	},
+	{
+		"fact_order_key" : 891,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 891,
+		"sales_rep_key" : 18,
+		"product_key" : 55
+	},
+	{
+		"fact_order_key" : 892,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 892,
+		"sales_rep_key" : 18,
+		"product_key" : 61
+	},
+	{
+		"fact_order_key" : 893,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 893,
+		"sales_rep_key" : 18,
+		"product_key" : 64
+	},
+	{
+		"fact_order_key" : 894,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 894,
+		"sales_rep_key" : 18,
+		"product_key" : 80
+	},
+	{
+		"fact_order_key" : 895,
+		"order_key" : 94,
+		"customer_key" : 111,
+		"ods_key" : 895,
+		"sales_rep_key" : 18,
+		"product_key" : 82
+	},
+	{
+		"fact_order_key" : 896,
+		"order_key" : 95,
+		"customer_key" : 14,
+		"ods_key" : 896,
+		"sales_rep_key" : 13,
+		"product_key" : 2
+	},
+	{
+		"fact_order_key" : 897,
+		"order_key" : 95,
+		"customer_key" : 14,
+		"ods_key" : 897,
+		"sales_rep_key" : 13,
+		"product_key" : 6
+	},
+	{
+		"fact_order_key" : 898,
+		"order_key" : 95,
+		"customer_key" : 14,
+		"ods_key" : 898,
+		"sales_rep_key" : 13,
+		"product_key" : 9
+	},
+	{
+		"fact_order_key" : 899,
+		"order_key" : 95,
+		"customer_key" : 14,
+		"ods_key" : 899,
+		"sales_rep_key" : 13,
+		"product_key" : 17
+	},
+	{
+		"fact_order_key" : 900,
+		"order_key" : 95,
+		"customer_key" : 14,
+		"ods_key" : 900,
+		"sales_rep_key" : 13,
+		"product_key" : 30
+	},
+	{
+		"fact_order_key" : 901,
+		"order_key" : 95,
+		"customer_key" : 14,
+		"ods_key" : 901,
+		"sales_rep_key" : 13,
+		"product_key" : 52
+	},
+	{
+		"fact_order_key" : 902,
+		"order_key" : 95,
+		"customer_key" : 14,
+		"ods_key" : 902,
+		"sales_rep_key" : 13,
+		"product_key" : 53
+	},
+	{
+		"fact_order_key" : 903,
+		"order_key" : 95,
+		"customer_key" : 14,
+		"ods_key" : 903,
+		"sales_rep_key" : 13,
+		"product_key" : 65
+	},
+	{
+		"fact_order_key" : 904,
+		"order_key" : 95,
+		"customer_key" : 14,
+		"ods_key" : 904,
+		"sales_rep_key" : 13,
+		"product_key" : 85
+	},
+	{
+		"fact_order_key" : 905,
+		"order_key" : 95,
+		"customer_key" : 14,
+		"ods_key" : 905,
+		"sales_rep_key" : 13,
+		"product_key" : 90
+	},
+	{
+		"fact_order_key" : 906,
+		"order_key" : 95,
+		"customer_key" : 14,
+		"ods_key" : 906,
+		"sales_rep_key" : 13,
+		"product_key" : 103
+	},
+	{
+		"fact_order_key" : 907,
+		"order_key" : 96,
+		"customer_key" : 67,
+		"ods_key" : 907,
+		"sales_rep_key" : 12,
+		"product_key" : 15
+	},
+	{
+		"fact_order_key" : 908,
+		"order_key" : 96,
+		"customer_key" : 67,
+		"ods_key" : 908,
+		"sales_rep_key" : 12,
+		"product_key" : 26
+	},
+	{
+		"fact_order_key" : 909,
+		"order_key" : 96,
+		"customer_key" : 67,
+		"ods_key" : 909,
+		"sales_rep_key" : 12,
+		"product_key" : 28
+	},
+	{
+		"fact_order_key" : 910,
+		"order_key" : 96,
+		"customer_key" : 67,
+		"ods_key" : 910,
+		"sales_rep_key" : 12,
+		"product_key" : 40
+	},
+	{
+		"fact_order_key" : 911,
+		"order_key" : 96,
+		"customer_key" : 67,
+		"ods_key" : 911,
+		"sales_rep_key" : 12,
+		"product_key" : 57
+	},
+	{
+		"fact_order_key" : 912,
+		"order_key" : 96,
+		"customer_key" : 67,
+		"ods_key" : 912,
+		"sales_rep_key" : 12,
+		"product_key" : 68
+	},
+	{
+		"fact_order_key" : 913,
+		"order_key" : 96,
+		"customer_key" : 67,
+		"ods_key" : 913,
+		"sales_rep_key" : 12,
+		"product_key" : 81
+	},
+	{
+		"fact_order_key" : 914,
+		"order_key" : 96,
+		"customer_key" : 67,
+		"ods_key" : 914,
+		"sales_rep_key" : 12,
+		"product_key" : 88
+	},
+	{
+		"fact_order_key" : 915,
+		"order_key" : 96,
+		"customer_key" : 67,
+		"ods_key" : 915,
+		"sales_rep_key" : 12,
+		"product_key" : 89
+	},
+	{
+		"fact_order_key" : 916,
+		"order_key" : 96,
+		"customer_key" : 67,
+		"ods_key" : 916,
+		"sales_rep_key" : 12,
+		"product_key" : 94
+	},
+	{
+		"fact_order_key" : 917,
+		"order_key" : 97,
+		"customer_key" : 105,
+		"ods_key" : 917,
+		"sales_rep_key" : 11,
+		"product_key" : 8
+	},
+	{
+		"fact_order_key" : 918,
+		"order_key" : 97,
+		"customer_key" : 105,
+		"ods_key" : 918,
+		"sales_rep_key" : 11,
+		"product_key" : 11
+	},
+	{
+		"fact_order_key" : 919,
+		"order_key" : 97,
+		"customer_key" : 105,
+		"ods_key" : 919,
+		"sales_rep_key" : 11,
+		"product_key" : 13
+	},
+	{
+		"fact_order_key" : 920,
+		"order_key" : 97,
+		"customer_key" : 105,
+		"ods_key" : 920,
+		"sales_rep_key" : 11,
+		"product_key" : 39
+	},
+	{
+		"fact_order_key" : 921,
+		"order_key" : 97,
+		"customer_key" : 105,
+		"ods_key" : 921,
+		"sales_rep_key" : 11,
+		"product_key" : 42
+	},
+	{
+		"fact_order_key" : 922,
+		"order_key" : 97,
+		"customer_key" : 105,
+		"ods_key" : 922,
+		"sales_rep_key" : 11,
+		"product_key" : 49
+	},
+	{
+		"fact_order_key" : 923,
+		"order_key" : 97,
+		"customer_key" : 105,
+		"ods_key" : 923,
+		"sales_rep_key" : 11,
+		"product_key" : 95
+	},
+	{
+		"fact_order_key" : 924,
+		"order_key" : 97,
+		"customer_key" : 105,
+		"ods_key" : 924,
+		"sales_rep_key" : 11,
+		"product_key" : 99
+	},
+	{
+		"fact_order_key" : 925,
+		"order_key" : 98,
+		"customer_key" : 40,
+		"ods_key" : 925,
+		"sales_rep_key" : 23,
+		"product_key" : 5
+	},
+	{
+		"fact_order_key" : 926,
+		"order_key" : 98,
+		"customer_key" : 40,
+		"ods_key" : 926,
+		"sales_rep_key" : 23,
+		"product_key" : 37
+	},
+	{
+		"fact_order_key" : 927,
+		"order_key" : 98,
+		"customer_key" : 40,
+		"ods_key" : 927,
+		"sales_rep_key" : 23,
+		"product_key" : 48
+	},
+	{
+		"fact_order_key" : 928,
+		"order_key" : 98,
+		"customer_key" : 40,
+		"ods_key" : 928,
+		"sales_rep_key" : 23,
+		"product_key" : 51
+	},
+	{
+		"fact_order_key" : 929,
+		"order_key" : 98,
+		"customer_key" : 40,
+		"ods_key" : 929,
+		"sales_rep_key" : 23,
+		"product_key" : 63
+	},
+	{
+		"fact_order_key" : 930,
+		"order_key" : 98,
+		"customer_key" : 40,
+		"ods_key" : 930,
+		"sales_rep_key" : 23,
+		"product_key" : 72
+	},
+	{
+		"fact_order_key" : 931,
+		"order_key" : 98,
+		"customer_key" : 40,
+		"ods_key" : 931,
+		"sales_rep_key" : 23,
+		"product_key" : 77
+	},
+	{
+		"fact_order_key" : 932,
+		"order_key" : 98,
+		"customer_key" : 40,
+		"ods_key" : 932,
+		"sales_rep_key" : 23,
+		"product_key" : 97
+	},
+	{
+		"fact_order_key" : 933,
+		"order_key" : 98,
+		"customer_key" : 40,
+		"ods_key" : 933,
+		"sales_rep_key" : 23,
+		"product_key" : 100
+	},
+	{
+		"fact_order_key" : 934,
+		"order_key" : 98,
+		"customer_key" : 40,
+		"ods_key" : 934,
+		"sales_rep_key" : 23,
+		"product_key" : 102
+	},
+	{
+		"fact_order_key" : 935,
+		"order_key" : 98,
+		"customer_key" : 40,
+		"ods_key" : 935,
+		"sales_rep_key" : 23,
+		"product_key" : 106
+	},
+	{
+		"fact_order_key" : 936,
+		"order_key" : 98,
+		"customer_key" : 40,
+		"ods_key" : 936,
+		"sales_rep_key" : 23,
+		"product_key" : 107
+	},
+	{
+		"fact_order_key" : 937,
+		"order_key" : 98,
+		"customer_key" : 40,
+		"ods_key" : 937,
+		"sales_rep_key" : 23,
+		"product_key" : 109
+	},
+	{
+		"fact_order_key" : 938,
+		"order_key" : 98,
+		"customer_key" : 40,
+		"ods_key" : 938,
+		"sales_rep_key" : 23,
+		"product_key" : 110
+	},
+	{
+		"fact_order_key" : 939,
+		"order_key" : 99,
+		"customer_key" : 92,
+		"ods_key" : 939,
+		"sales_rep_key" : 21,
+		"product_key" : 22
+	},
+	{
+		"fact_order_key" : 940,
+		"order_key" : 99,
+		"customer_key" : 92,
+		"ods_key" : 940,
+		"sales_rep_key" : 21,
+		"product_key" : 69
+	},
+	{
+		"fact_order_key" : 941,
+		"order_key" : 99,
+		"customer_key" : 92,
+		"ods_key" : 941,
+		"sales_rep_key" : 21,
+		"product_key" : 75
+	},
+	{
+		"fact_order_key" : 942,
+		"order_key" : 99,
+		"customer_key" : 92,
+		"ods_key" : 942,
+		"sales_rep_key" : 21,
+		"product_key" : 79
+	},
+	{
+		"fact_order_key" : 943,
+		"order_key" : 99,
+		"customer_key" : 92,
+		"ods_key" : 943,
+		"sales_rep_key" : 21,
+		"product_key" : 101
+	},
+	{
+		"fact_order_key" : 944,
+		"order_key" : 99,
+		"customer_key" : 92,
+		"ods_key" : 944,
+		"sales_rep_key" : 21,
+		"product_key" : 108
+	},
+	{
+		"fact_order_key" : 945,
+		"order_key" : 100,
+		"customer_key" : 113,
+		"ods_key" : 945,
+		"sales_rep_key" : 8,
+		"product_key" : 93
+	},
+	{
+		"fact_order_key" : 946,
+		"order_key" : 100,
+		"customer_key" : 113,
+		"ods_key" : 946,
+		"sales_rep_key" : 8,
+		"product_key" : 98
+	},
+	{
+		"fact_order_key" : 947,
+		"order_key" : 100,
+		"customer_key" : 113,
+		"ods_key" : 947,
+		"sales_rep_key" : 8,
+		"product_key" : 105
+	},
+	{
+		"fact_order_key" : 948,
+		"order_key" : 101,
+		"customer_key" : 39,
+		"ods_key" : 948,
+		"sales_rep_key" : 21,
+		"product_key" : 31
+	},
+	{
+		"fact_order_key" : 949,
+		"order_key" : 101,
+		"customer_key" : 39,
+		"ods_key" : 949,
+		"sales_rep_key" : 21,
+		"product_key" : 60
+	},
+	{
+		"fact_order_key" : 950,
+		"order_key" : 101,
+		"customer_key" : 39,
+		"ods_key" : 950,
+		"sales_rep_key" : 21,
+		"product_key" : 83
+	},
+	{
+		"fact_order_key" : 951,
+		"order_key" : 101,
+		"customer_key" : 39,
+		"ods_key" : 951,
+		"sales_rep_key" : 21,
+		"product_key" : 86
+	},
+	{
+		"fact_order_key" : 952,
+		"order_key" : 101,
+		"customer_key" : 39,
+		"ods_key" : 952,
+		"sales_rep_key" : 21,
+		"product_key" : 91
+	},
+	{
+		"fact_order_key" : 953,
+		"order_key" : 101,
+		"customer_key" : 39,
+		"ods_key" : 953,
+		"sales_rep_key" : 21,
+		"product_key" : 104
+	},
+	{
+		"fact_order_key" : 954,
+		"order_key" : 102,
+		"customer_key" : 9,
+		"ods_key" : 954,
+		"sales_rep_key" : 7,
+		"product_key" : 1
+	},
+	{
+		"fact_order_key" : 955,
+		"order_key" : 102,
+		"customer_key" : 9,
+		"ods_key" : 955,
+		"sales_rep_key" : 7,
+		"product_key" : 3
+	},
+	{
+		"fact_order_key" : 956,
+		"order_key" : 102,
+		"customer_key" : 9,
+		"ods_key" : 956,
+		"sales_rep_key" : 7,
+		"product_key" : 4
+	},
+	{
+		"fact_order_key" : 957,
+		"order_key" : 102,
+		"customer_key" : 9,
+		"ods_key" : 957,
+		"sales_rep_key" : 7,
+		"product_key" : 10
+	},
+	{
+		"fact_order_key" : 958,
+		"order_key" : 102,
+		"customer_key" : 9,
+		"ods_key" : 958,
+		"sales_rep_key" : 7,
+		"product_key" : 32
+	},
+	{
+		"fact_order_key" : 959,
+		"order_key" : 102,
+		"customer_key" : 9,
+		"ods_key" : 959,
+		"sales_rep_key" : 7,
+		"product_key" : 58
+	},
+	{
+		"fact_order_key" : 960,
+		"order_key" : 102,
+		"customer_key" : 9,
+		"ods_key" : 960,
+		"sales_rep_key" : 7,
+		"product_key" : 62
+	},
+	{
+		"fact_order_key" : 961,
+		"order_key" : 103,
+		"customer_key" : 83,
+		"ods_key" : 961,
+		"sales_rep_key" : 19,
+		"product_key" : 47
+	},
+	{
+		"fact_order_key" : 962,
+		"order_key" : 103,
+		"customer_key" : 83,
+		"ods_key" : 962,
+		"sales_rep_key" : 19,
+		"product_key" : 54
+	},
+	{
+		"fact_order_key" : 963,
+		"order_key" : 103,
+		"customer_key" : 83,
+		"ods_key" : 963,
+		"sales_rep_key" : 19,
+		"product_key" : 66
+	},
+	{
+		"fact_order_key" : 964,
+		"order_key" : 103,
+		"customer_key" : 83,
+		"ods_key" : 964,
+		"sales_rep_key" : 19,
+		"product_key" : 84
+	},
+	{
+		"fact_order_key" : 965,
+		"order_key" : 103,
+		"customer_key" : 83,
+		"ods_key" : 965,
+		"sales_rep_key" : 19,
+		"product_key" : 87
+	},
+	{
+		"fact_order_key" : 966,
+		"order_key" : 103,
+		"customer_key" : 83,
+		"ods_key" : 966,
+		"sales_rep_key" : 19,
+		"product_key" : 92
+	},
+	{
+		"fact_order_key" : 967,
+		"order_key" : 103,
+		"customer_key" : 83,
+		"ods_key" : 967,
+		"sales_rep_key" : 19,
+		"product_key" : 96
+	},
+	{
+		"fact_order_key" : 968,
+		"order_key" : 104,
+		"customer_key" : 11,
+		"ods_key" : 968,
+		"sales_rep_key" : 14,
+		"product_key" : 7
+	},
+	{
+		"fact_order_key" : 969,
+		"order_key" : 104,
+		"customer_key" : 11,
+		"ods_key" : 969,
+		"sales_rep_key" : 14,
+		"product_key" : 12
+	},
+	{
+		"fact_order_key" : 970,
+		"order_key" : 104,
+		"customer_key" : 11,
+		"ods_key" : 970,
+		"sales_rep_key" : 14,
+		"product_key" : 14
+	},
+	{
+		"fact_order_key" : 971,
+		"order_key" : 104,
+		"customer_key" : 11,
+		"ods_key" : 971,
+		"sales_rep_key" : 14,
+		"product_key" : 16
+	},
+	{
+		"fact_order_key" : 972,
+		"order_key" : 104,
+		"customer_key" : 11,
+		"ods_key" : 972,
+		"sales_rep_key" : 14,
+		"product_key" : 24
+	},
+	{
+		"fact_order_key" : 973,
+		"order_key" : 104,
+		"customer_key" : 11,
+		"ods_key" : 973,
+		"sales_rep_key" : 14,
+		"product_key" : 40
+	},
+	{
+		"fact_order_key" : 974,
+		"order_key" : 104,
+		"customer_key" : 11,
+		"ods_key" : 974,
+		"sales_rep_key" : 14,
+		"product_key" : 43
+	},
+	{
+		"fact_order_key" : 975,
+		"order_key" : 104,
+		"customer_key" : 11,
+		"ods_key" : 975,
+		"sales_rep_key" : 14,
+		"product_key" : 45
+	},
+	{
+		"fact_order_key" : 976,
+		"order_key" : 104,
+		"customer_key" : 11,
+		"ods_key" : 976,
+		"sales_rep_key" : 14,
+		"product_key" : 71
+	},
+	{
+		"fact_order_key" : 977,
+		"order_key" : 104,
+		"customer_key" : 11,
+		"ods_key" : 977,
+		"sales_rep_key" : 14,
+		"product_key" : 74
+	},
+	{
+		"fact_order_key" : 978,
+		"order_key" : 104,
+		"customer_key" : 11,
+		"ods_key" : 978,
+		"sales_rep_key" : 14,
+		"product_key" : 78
+	},
+	{
+		"fact_order_key" : 979,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 979,
+		"sales_rep_key" : 11,
+		"product_key" : 18
+	},
+	{
+		"fact_order_key" : 980,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 980,
+		"sales_rep_key" : 11,
+		"product_key" : 21
+	},
+	{
+		"fact_order_key" : 981,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 981,
+		"sales_rep_key" : 11,
+		"product_key" : 23
+	},
+	{
+		"fact_order_key" : 982,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 982,
+		"sales_rep_key" : 11,
+		"product_key" : 25
+	},
+	{
+		"fact_order_key" : 983,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 983,
+		"sales_rep_key" : 11,
+		"product_key" : 27
+	},
+	{
+		"fact_order_key" : 984,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 984,
+		"sales_rep_key" : 11,
+		"product_key" : 29
+	},
+	{
+		"fact_order_key" : 985,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 985,
+		"sales_rep_key" : 11,
+		"product_key" : 34
+	},
+	{
+		"fact_order_key" : 986,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 986,
+		"sales_rep_key" : 11,
+		"product_key" : 46
+	},
+	{
+		"fact_order_key" : 987,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 987,
+		"sales_rep_key" : 11,
+		"product_key" : 50
+	},
+	{
+		"fact_order_key" : 988,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 988,
+		"sales_rep_key" : 11,
+		"product_key" : 55
+	},
+	{
+		"fact_order_key" : 989,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 989,
+		"sales_rep_key" : 11,
+		"product_key" : 56
+	},
+	{
+		"fact_order_key" : 990,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 990,
+		"sales_rep_key" : 11,
+		"product_key" : 59
+	},
+	{
+		"fact_order_key" : 991,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 991,
+		"sales_rep_key" : 11,
+		"product_key" : 67
+	},
+	{
+		"fact_order_key" : 992,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 992,
+		"sales_rep_key" : 11,
+		"product_key" : 70
+	},
+	{
+		"fact_order_key" : 993,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 993,
+		"sales_rep_key" : 11,
+		"product_key" : 73
+	},
+	{
+		"fact_order_key" : 994,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 994,
+		"sales_rep_key" : 11,
+		"product_key" : 76
+	},
+	{
+		"fact_order_key" : 995,
+		"order_key" : 105,
+		"customer_key" : 16,
+		"ods_key" : 995,
+		"sales_rep_key" : 11,
+		"product_key" : 80
+	},
+	{
+		"fact_order_key" : 996,
+		"order_key" : 106,
+		"customer_key" : 11,
+		"ods_key" : 996,
+		"sales_rep_key" : 14,
+		"product_key" : 19
+	},
+	{
+		"fact_order_key" : 997,
+		"order_key" : 106,
+		"customer_key" : 11,
+		"ods_key" : 997,
+		"sales_rep_key" : 14,
+		"product_key" : 20
+	},
+	{
+		"fact_order_key" : 998,
+		"order_key" : 106,
+		"customer_key" : 11,
+		"ods_key" : 998,
+		"sales_rep_key" : 14,
+		"product_key" : 33
+	},
+	{
+		"fact_order_key" : 999,
+		"order_key" : 106,
+		"customer_key" : 11,
+		"ods_key" : 999,
+		"sales_rep_key" : 14,
+		"product_key" : 61
+	},
+	{
+		"fact_order_key" : 1000,
+		"order_key" : 106,
+		"customer_key" : 11,
+		"ods_key" : 1000,
+		"sales_rep_key" : 14,
+		"product_key" : 64
+	},
+	{
+		"fact_order_key" : 1001,
+		"order_key" : 107,
+		"customer_key" : 34,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1002,
+		"order_key" : 108,
+		"customer_key" : 121,
+		"ods_key" : null,
+		"sales_rep_key" : 9,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1003,
+		"order_key" : 109,
+		"customer_key" : 14,
+		"ods_key" : null,
+		"sales_rep_key" : 13,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1004,
+		"order_key" : 110,
+		"customer_key" : 78,
+		"ods_key" : null,
+		"sales_rep_key" : 8,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1005,
+		"order_key" : 111,
+		"customer_key" : 27,
+		"ods_key" : null,
+		"sales_rep_key" : 21,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1006,
+		"order_key" : 112,
+		"customer_key" : 95,
+		"ods_key" : null,
+		"sales_rep_key" : 13,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1007,
+		"order_key" : 113,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1008,
+		"order_key" : 114,
+		"customer_key" : 120,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1009,
+		"order_key" : 115,
+		"customer_key" : 107,
+		"ods_key" : null,
+		"sales_rep_key" : 23,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1010,
+		"order_key" : 116,
+		"customer_key" : 113,
+		"ods_key" : null,
+		"sales_rep_key" : 8,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1011,
+		"order_key" : 117,
+		"customer_key" : 52,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1012,
+		"order_key" : 118,
+		"customer_key" : 19,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1013,
+		"order_key" : 119,
+		"customer_key" : 112,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1014,
+		"order_key" : 120,
+		"customer_key" : 119,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1015,
+		"order_key" : 121,
+		"customer_key" : 31,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1016,
+		"order_key" : 122,
+		"customer_key" : 66,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1017,
+		"order_key" : 123,
+		"customer_key" : 46,
+		"ods_key" : null,
+		"sales_rep_key" : 8,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1018,
+		"order_key" : 124,
+		"customer_key" : 3,
+		"ods_key" : null,
+		"sales_rep_key" : 18,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1019,
+		"order_key" : 125,
+		"customer_key" : 23,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1020,
+		"order_key" : 126,
+		"customer_key" : 61,
+		"ods_key" : null,
+		"sales_rep_key" : 23,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1021,
+		"order_key" : 127,
+		"customer_key" : 46,
+		"ods_key" : null,
+		"sales_rep_key" : 8,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1022,
+		"order_key" : 128,
+		"customer_key" : 14,
+		"ods_key" : null,
+		"sales_rep_key" : 13,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1023,
+		"order_key" : 129,
+		"customer_key" : 25,
+		"ods_key" : null,
+		"sales_rep_key" : 9,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1024,
+		"order_key" : 130,
+		"customer_key" : 6,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1025,
+		"order_key" : 131,
+		"customer_key" : 8,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1026,
+		"order_key" : 132,
+		"customer_key" : 77,
+		"ods_key" : null,
+		"sales_rep_key" : 23,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1027,
+		"order_key" : 133,
+		"customer_key" : 47,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1028,
+		"order_key" : 134,
+		"customer_key" : 72,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1029,
+		"order_key" : 135,
+		"customer_key" : 97,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1030,
+		"order_key" : 136,
+		"customer_key" : 54,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1031,
+		"order_key" : 137,
+		"customer_key" : 118,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1032,
+		"order_key" : 138,
+		"customer_key" : 28,
+		"ods_key" : null,
+		"sales_rep_key" : 11,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1033,
+		"order_key" : 139,
+		"customer_key" : 13,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1034,
+		"order_key" : 140,
+		"customer_key" : 65,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1035,
+		"order_key" : 141,
+		"customer_key" : 27,
+		"ods_key" : null,
+		"sales_rep_key" : 21,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1036,
+		"order_key" : 142,
+		"customer_key" : 38,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1037,
+		"order_key" : 143,
+		"customer_key" : 106,
+		"ods_key" : null,
+		"sales_rep_key" : 11,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1038,
+		"order_key" : 144,
+		"customer_key" : 121,
+		"ods_key" : null,
+		"sales_rep_key" : 9,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1039,
+		"order_key" : 145,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1040,
+		"order_key" : 146,
+		"customer_key" : 105,
+		"ods_key" : null,
+		"sales_rep_key" : 11,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1041,
+		"order_key" : 147,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1042,
+		"order_key" : 148,
+		"customer_key" : 74,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1043,
+		"order_key" : 149,
+		"customer_key" : 10,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1044,
+		"order_key" : 150,
+		"customer_key" : 25,
+		"ods_key" : null,
+		"sales_rep_key" : 9,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1045,
+		"order_key" : 151,
+		"customer_key" : 103,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1046,
+		"order_key" : 152,
+		"customer_key" : 72,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1047,
+		"order_key" : 153,
+		"customer_key" : 95,
+		"ods_key" : null,
+		"sales_rep_key" : 13,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1048,
+		"order_key" : 154,
+		"customer_key" : 33,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1049,
+		"order_key" : 155,
+		"customer_key" : 70,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1050,
+		"order_key" : 156,
+		"customer_key" : 38,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1051,
+		"order_key" : 157,
+		"customer_key" : 13,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1052,
+		"order_key" : 158,
+		"customer_key" : 103,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1053,
+		"order_key" : 159,
+		"customer_key" : 94,
+		"ods_key" : null,
+		"sales_rep_key" : 21,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1054,
+		"order_key" : 160,
+		"customer_key" : 19,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1055,
+		"order_key" : 161,
+		"customer_key" : 83,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1056,
+		"order_key" : 162,
+		"customer_key" : 44,
+		"ods_key" : null,
+		"sales_rep_key" : 11,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1057,
+		"order_key" : 163,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1058,
+		"order_key" : 164,
+		"customer_key" : 26,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1059,
+		"order_key" : 165,
+		"customer_key" : 85,
+		"ods_key" : null,
+		"sales_rep_key" : 10,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1060,
+		"order_key" : 166,
+		"customer_key" : 111,
+		"ods_key" : null,
+		"sales_rep_key" : 18,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1061,
+		"order_key" : 167,
+		"customer_key" : 93,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1062,
+		"order_key" : 168,
+		"customer_key" : 16,
+		"ods_key" : null,
+		"sales_rep_key" : 11,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1063,
+		"order_key" : 169,
+		"customer_key" : 97,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1064,
+		"order_key" : 170,
+		"customer_key" : 91,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1065,
+		"order_key" : 171,
+		"customer_key" : 58,
+		"ods_key" : null,
+		"sales_rep_key" : 18,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1066,
+		"order_key" : 172,
+		"customer_key" : 6,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1067,
+		"order_key" : 173,
+		"customer_key" : 17,
+		"ods_key" : null,
+		"sales_rep_key" : 10,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1068,
+		"order_key" : 174,
+		"customer_key" : 66,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1069,
+		"order_key" : 175,
+		"customer_key" : 89,
+		"ods_key" : null,
+		"sales_rep_key" : 9,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1070,
+		"order_key" : 176,
+		"customer_key" : 4,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1071,
+		"order_key" : 177,
+		"customer_key" : 35,
+		"ods_key" : null,
+		"sales_rep_key" : 9,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1072,
+		"order_key" : 178,
+		"customer_key" : 15,
+		"ods_key" : null,
+		"sales_rep_key" : 21,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1073,
+		"order_key" : 179,
+		"customer_key" : 2,
+		"ods_key" : null,
+		"sales_rep_key" : 8,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1074,
+		"order_key" : 180,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1075,
+		"order_key" : 181,
+		"customer_key" : 50,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1076,
+		"order_key" : 182,
+		"customer_key" : 17,
+		"ods_key" : null,
+		"sales_rep_key" : 10,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1077,
+		"order_key" : 183,
+		"customer_key" : 6,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1078,
+		"order_key" : 184,
+		"customer_key" : 54,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1079,
+		"order_key" : 185,
+		"customer_key" : 62,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1080,
+		"order_key" : 186,
+		"customer_key" : 59,
+		"ods_key" : null,
+		"sales_rep_key" : 10,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1081,
+		"order_key" : 187,
+		"customer_key" : 24,
+		"ods_key" : null,
+		"sales_rep_key" : 13,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1082,
+		"order_key" : 188,
+		"customer_key" : 61,
+		"ods_key" : null,
+		"sales_rep_key" : 23,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1083,
+		"order_key" : 189,
+		"customer_key" : 19,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1084,
+		"order_key" : 190,
+		"customer_key" : 20,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1085,
+		"order_key" : 191,
+		"customer_key" : 32,
+		"ods_key" : null,
+		"sales_rep_key" : 10,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1086,
+		"order_key" : 192,
+		"customer_key" : 102,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1087,
+		"order_key" : 193,
+		"customer_key" : 10,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1088,
+		"order_key" : 194,
+		"customer_key" : 50,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1089,
+		"order_key" : 195,
+		"customer_key" : 35,
+		"ods_key" : null,
+		"sales_rep_key" : 9,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1090,
+		"order_key" : 196,
+		"customer_key" : 85,
+		"ods_key" : null,
+		"sales_rep_key" : 10,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1091,
+		"order_key" : 197,
+		"customer_key" : 98,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1092,
+		"order_key" : 198,
+		"customer_key" : 31,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1093,
+		"order_key" : 199,
+		"customer_key" : 1,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1094,
+		"order_key" : 200,
+		"customer_key" : 29,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1095,
+		"order_key" : 201,
+		"customer_key" : 8,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1096,
+		"order_key" : 202,
+		"customer_key" : 62,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1097,
+		"order_key" : 203,
+		"customer_key" : 33,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1098,
+		"order_key" : 204,
+		"customer_key" : 117,
+		"ods_key" : null,
+		"sales_rep_key" : 23,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1099,
+		"order_key" : 205,
+		"customer_key" : 52,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1100,
+		"order_key" : 206,
+		"customer_key" : 59,
+		"ods_key" : null,
+		"sales_rep_key" : 10,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1101,
+		"order_key" : 207,
+		"customer_key" : 30,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1102,
+		"order_key" : 208,
+		"customer_key" : 76,
+		"ods_key" : null,
+		"sales_rep_key" : 9,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1103,
+		"order_key" : 209,
+		"customer_key" : 67,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1104,
+		"order_key" : 210,
+		"customer_key" : 5,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1105,
+		"order_key" : 211,
+		"customer_key" : 53,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1106,
+		"order_key" : 212,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1107,
+		"order_key" : 213,
+		"customer_key" : 6,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1108,
+		"order_key" : 214,
+		"customer_key" : 34,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1109,
+		"order_key" : 215,
+		"customer_key" : 43,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1110,
+		"order_key" : 216,
+		"customer_key" : 4,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1111,
+		"order_key" : 217,
+		"customer_key" : 47,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1112,
+		"order_key" : 218,
+		"customer_key" : 18,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1113,
+		"order_key" : 219,
+		"customer_key" : 17,
+		"ods_key" : null,
+		"sales_rep_key" : 10,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1114,
+		"order_key" : 220,
+		"customer_key" : 106,
+		"ods_key" : null,
+		"sales_rep_key" : 11,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1115,
+		"order_key" : 221,
+		"customer_key" : 12,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1116,
+		"order_key" : 222,
+		"customer_key" : 109,
+		"ods_key" : null,
+		"sales_rep_key" : 10,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1117,
+		"order_key" : 223,
+		"customer_key" : 86,
+		"ods_key" : null,
+		"sales_rep_key" : 10,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1118,
+		"order_key" : 224,
+		"customer_key" : 8,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1119,
+		"order_key" : 225,
+		"customer_key" : 28,
+		"ods_key" : null,
+		"sales_rep_key" : 11,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1120,
+		"order_key" : 226,
+		"customer_key" : 5,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1121,
+		"order_key" : 227,
+		"customer_key" : 12,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1122,
+		"order_key" : 228,
+		"customer_key" : 13,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1123,
+		"order_key" : 229,
+		"customer_key" : 57,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1124,
+		"order_key" : 230,
+		"customer_key" : 10,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1125,
+		"order_key" : 231,
+		"customer_key" : 92,
+		"ods_key" : null,
+		"sales_rep_key" : 21,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1126,
+		"order_key" : 232,
+		"customer_key" : 118,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1127,
+		"order_key" : 233,
+		"customer_key" : 30,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1128,
+		"order_key" : 234,
+		"customer_key" : 9,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1129,
+		"order_key" : 235,
+		"customer_key" : 12,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1130,
+		"order_key" : 236,
+		"customer_key" : 6,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1131,
+		"order_key" : 237,
+		"customer_key" : 24,
+		"ods_key" : null,
+		"sales_rep_key" : 13,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1132,
+		"order_key" : 238,
+		"customer_key" : 99,
+		"ods_key" : null,
+		"sales_rep_key" : 11,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1133,
+		"order_key" : 239,
+		"customer_key" : 90,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1134,
+		"order_key" : 240,
+		"customer_key" : 94,
+		"ods_key" : null,
+		"sales_rep_key" : 21,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1135,
+		"order_key" : 241,
+		"customer_key" : 40,
+		"ods_key" : null,
+		"sales_rep_key" : 23,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1136,
+		"order_key" : 242,
+		"customer_key" : 91,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1137,
+		"order_key" : 243,
+		"customer_key" : 3,
+		"ods_key" : null,
+		"sales_rep_key" : 18,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1138,
+		"order_key" : 244,
+		"customer_key" : 81,
+		"ods_key" : null,
+		"sales_rep_key" : 13,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1139,
+		"order_key" : 245,
+		"customer_key" : 80,
+		"ods_key" : null,
+		"sales_rep_key" : 13,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1140,
+		"order_key" : 246,
+		"customer_key" : 1,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1141,
+		"order_key" : 247,
+		"customer_key" : 2,
+		"ods_key" : null,
+		"sales_rep_key" : 8,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1142,
+		"order_key" : 248,
+		"customer_key" : 3,
+		"ods_key" : null,
+		"sales_rep_key" : 18,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1143,
+		"order_key" : 249,
+		"customer_key" : 107,
+		"ods_key" : null,
+		"sales_rep_key" : 23,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1144,
+		"order_key" : 250,
+		"customer_key" : 16,
+		"ods_key" : null,
+		"sales_rep_key" : 11,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1145,
+		"order_key" : 251,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1146,
+		"order_key" : 252,
+		"customer_key" : 71,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1147,
+		"order_key" : 253,
+		"customer_key" : 32,
+		"ods_key" : null,
+		"sales_rep_key" : 10,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1148,
+		"order_key" : 254,
+		"customer_key" : 101,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1149,
+		"order_key" : 255,
+		"customer_key" : 70,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1150,
+		"order_key" : 256,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1151,
+		"order_key" : 257,
+		"customer_key" : 51,
+		"ods_key" : null,
+		"sales_rep_key" : 13,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1152,
+		"order_key" : 258,
+		"customer_key" : 6,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1153,
+		"order_key" : 259,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1154,
+		"order_key" : 260,
+		"customer_key" : 81,
+		"ods_key" : null,
+		"sales_rep_key" : 13,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1155,
+		"order_key" : 261,
+		"customer_key" : 122,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1156,
+		"order_key" : 262,
+		"customer_key" : 58,
+		"ods_key" : null,
+		"sales_rep_key" : 18,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1157,
+		"order_key" : 263,
+		"customer_key" : 18,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1158,
+		"order_key" : 264,
+		"customer_key" : 74,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1159,
+		"order_key" : 265,
+		"customer_key" : 80,
+		"ods_key" : null,
+		"sales_rep_key" : 13,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1160,
+		"order_key" : 266,
+		"customer_key" : 68,
+		"ods_key" : null,
+		"sales_rep_key" : 9,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1161,
+		"order_key" : 267,
+		"customer_key" : 90,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1162,
+		"order_key" : 268,
+		"customer_key" : 36,
+		"ods_key" : null,
+		"sales_rep_key" : 8,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1163,
+		"order_key" : 269,
+		"customer_key" : 6,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1164,
+		"order_key" : 270,
+		"customer_key" : 89,
+		"ods_key" : null,
+		"sales_rep_key" : 9,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1165,
+		"order_key" : 271,
+		"customer_key" : 56,
+		"ods_key" : null,
+		"sales_rep_key" : 18,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1166,
+		"order_key" : 272,
+		"customer_key" : 6,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1167,
+		"order_key" : 273,
+		"customer_key" : 94,
+		"ods_key" : null,
+		"sales_rep_key" : 21,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1168,
+		"order_key" : 274,
+		"customer_key" : 65,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1169,
+		"order_key" : 275,
+		"customer_key" : 73,
+		"ods_key" : null,
+		"sales_rep_key" : 18,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1170,
+		"order_key" : 276,
+		"customer_key" : 4,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1171,
+		"order_key" : 277,
+		"customer_key" : 41,
+		"ods_key" : null,
+		"sales_rep_key" : 8,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1172,
+		"order_key" : 278,
+		"customer_key" : 29,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1173,
+		"order_key" : 279,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1174,
+		"order_key" : 280,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1175,
+		"order_key" : 281,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1176,
+		"order_key" : 282,
+		"customer_key" : 69,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1177,
+		"order_key" : 283,
+		"customer_key" : 6,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1178,
+		"order_key" : 284,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1179,
+		"order_key" : 285,
+		"customer_key" : 69,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1180,
+		"order_key" : 286,
+		"customer_key" : 6,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1181,
+		"order_key" : 287,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1182,
+		"order_key" : 288,
+		"customer_key" : 15,
+		"ods_key" : null,
+		"sales_rep_key" : 21,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1183,
+		"order_key" : 289,
+		"customer_key" : 109,
+		"ods_key" : null,
+		"sales_rep_key" : 10,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1184,
+		"order_key" : 290,
+		"customer_key" : 102,
+		"ods_key" : null,
+		"sales_rep_key" : 17,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1185,
+		"order_key" : 291,
+		"customer_key" : 6,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1186,
+		"order_key" : 292,
+		"customer_key" : 56,
+		"ods_key" : null,
+		"sales_rep_key" : 18,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1187,
+		"order_key" : 293,
+		"customer_key" : 104,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1188,
+		"order_key" : 294,
+		"customer_key" : 70,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1189,
+		"order_key" : 295,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1190,
+		"order_key" : 296,
+		"customer_key" : 51,
+		"ods_key" : null,
+		"sales_rep_key" : 13,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1191,
+		"order_key" : 297,
+		"customer_key" : 6,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1192,
+		"order_key" : 298,
+		"customer_key" : 48,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1193,
+		"order_key" : 299,
+		"customer_key" : 81,
+		"ods_key" : null,
+		"sales_rep_key" : 13,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1194,
+		"order_key" : 300,
+		"customer_key" : 122,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1195,
+		"order_key" : 301,
+		"customer_key" : 103,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1196,
+		"order_key" : 302,
+		"customer_key" : 72,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1197,
+		"order_key" : 303,
+		"customer_key" : 95,
+		"ods_key" : null,
+		"sales_rep_key" : 13,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1198,
+		"order_key" : 304,
+		"customer_key" : 33,
+		"ods_key" : null,
+		"sales_rep_key" : 16,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1199,
+		"order_key" : 305,
+		"customer_key" : 70,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1200,
+		"order_key" : 306,
+		"customer_key" : 38,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1201,
+		"order_key" : 307,
+		"customer_key" : 13,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1202,
+		"order_key" : 308,
+		"customer_key" : 103,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1203,
+		"order_key" : 309,
+		"customer_key" : 94,
+		"ods_key" : null,
+		"sales_rep_key" : 21,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1204,
+		"order_key" : 310,
+		"customer_key" : 19,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1205,
+		"order_key" : 311,
+		"customer_key" : 83,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1206,
+		"order_key" : 312,
+		"customer_key" : 44,
+		"ods_key" : null,
+		"sales_rep_key" : 11,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1207,
+		"order_key" : 313,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1208,
+		"order_key" : 314,
+		"customer_key" : 26,
+		"ods_key" : null,
+		"sales_rep_key" : 12,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1209,
+		"order_key" : 315,
+		"customer_key" : 85,
+		"ods_key" : null,
+		"sales_rep_key" : 10,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1210,
+		"order_key" : 316,
+		"customer_key" : 111,
+		"ods_key" : null,
+		"sales_rep_key" : 18,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1211,
+		"order_key" : 317,
+		"customer_key" : 93,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1212,
+		"order_key" : 318,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1213,
+		"order_key" : 319,
+		"customer_key" : 97,
+		"ods_key" : null,
+		"sales_rep_key" : 19,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1214,
+		"order_key" : 320,
+		"customer_key" : 91,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1215,
+		"order_key" : 321,
+		"customer_key" : 58,
+		"ods_key" : null,
+		"sales_rep_key" : 18,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1216,
+		"order_key" : 322,
+		"customer_key" : 6,
+		"ods_key" : null,
+		"sales_rep_key" : 7,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1217,
+		"order_key" : 323,
+		"customer_key" : 17,
+		"ods_key" : null,
+		"sales_rep_key" : 10,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1218,
+		"order_key" : 324,
+		"customer_key" : 66,
+		"ods_key" : null,
+		"sales_rep_key" : 15,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1219,
+		"order_key" : 325,
+		"customer_key" : 11,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	},
+	{
+		"fact_order_key" : 1220,
+		"order_key" : 326,
+		"customer_key" : 4,
+		"ods_key" : null,
+		"sales_rep_key" : 14,
+		"product_key" : null
+	}
+]

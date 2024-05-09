@@ -1,0 +1,30 @@
+[
+	{
+		"product_line" : "Classic Cars",
+		"product_line_key" : 1
+	},
+	{
+		"product_line" : "Motorcycles",
+		"product_line_key" : 2
+	},
+	{
+		"product_line" : "Planes",
+		"product_line_key" : 3
+	},
+	{
+		"product_line" : "Ships",
+		"product_line_key" : 4
+	},
+	{
+		"product_line" : "Trains",
+		"product_line_key" : 5
+	},
+	{
+		"product_line" : "Trucks and Buses",
+		"product_line_key" : 6
+	},
+	{
+		"product_line" : "Vintage Cars",
+		"product_line_key" : 7
+	}
+]

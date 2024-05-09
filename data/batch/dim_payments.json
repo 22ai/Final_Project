@@ -1,0 +1,1913 @@
+[
+	{
+		"payment_key" : 1,
+		"customer_id" : 103,
+		"check_num" : "HQ336336",
+		"amount" : 6066.78,
+		"payment_date_key" : 20041019
+	},
+	{
+		"payment_key" : 2,
+		"customer_id" : 103,
+		"check_num" : "JM555205",
+		"amount" : 14571.44,
+		"payment_date_key" : 20030605
+	},
+	{
+		"payment_key" : 3,
+		"customer_id" : 103,
+		"check_num" : "OM314933",
+		"amount" : 1676.14,
+		"payment_date_key" : 20041218
+	},
+	{
+		"payment_key" : 4,
+		"customer_id" : 112,
+		"check_num" : "BO864823",
+		"amount" : 14191.12,
+		"payment_date_key" : 20041217
+	},
+	{
+		"payment_key" : 5,
+		"customer_id" : 112,
+		"check_num" : "HQ55022",
+		"amount" : 32641.98,
+		"payment_date_key" : 20030606
+	},
+	{
+		"payment_key" : 6,
+		"customer_id" : 112,
+		"check_num" : "ND748579",
+		"amount" : 33347.88,
+		"payment_date_key" : 20040820
+	},
+	{
+		"payment_key" : 7,
+		"customer_id" : 114,
+		"check_num" : "GG31455",
+		"amount" : 45864.03,
+		"payment_date_key" : 20030520
+	},
+	{
+		"payment_key" : 8,
+		"customer_id" : 114,
+		"check_num" : "MA765515",
+		"amount" : 82261.22,
+		"payment_date_key" : 20041215
+	},
+	{
+		"payment_key" : 9,
+		"customer_id" : 114,
+		"check_num" : "NP603840",
+		"amount" : 7565.08,
+		"payment_date_key" : 20030531
+	},
+	{
+		"payment_key" : 10,
+		"customer_id" : 114,
+		"check_num" : "NR27552",
+		"amount" : 44894.74,
+		"payment_date_key" : 20040310
+	},
+	{
+		"payment_key" : 11,
+		"customer_id" : 119,
+		"check_num" : "DB933704",
+		"amount" : 19501.82,
+		"payment_date_key" : 20041114
+	},
+	{
+		"payment_key" : 12,
+		"customer_id" : 119,
+		"check_num" : "LN373447",
+		"amount" : 47924.19,
+		"payment_date_key" : 20040808
+	},
+	{
+		"payment_key" : 13,
+		"customer_id" : 119,
+		"check_num" : "NG94694",
+		"amount" : 49523.67,
+		"payment_date_key" : 20050222
+	},
+	{
+		"payment_key" : 14,
+		"customer_id" : 121,
+		"check_num" : "DB889831",
+		"amount" : 50218.95,
+		"payment_date_key" : 20030216
+	},
+	{
+		"payment_key" : 15,
+		"customer_id" : 121,
+		"check_num" : "FD317790",
+		"amount" : 1491.38,
+		"payment_date_key" : 20031028
+	},
+	{
+		"payment_key" : 16,
+		"customer_id" : 121,
+		"check_num" : "KI831359",
+		"amount" : 17876.32,
+		"payment_date_key" : 20041104
+	},
+	{
+		"payment_key" : 17,
+		"customer_id" : 121,
+		"check_num" : "MA302151",
+		"amount" : 34638.14,
+		"payment_date_key" : 20041128
+	},
+	{
+		"payment_key" : 18,
+		"customer_id" : 124,
+		"check_num" : "AE215433",
+		"amount" : 101244.59,
+		"payment_date_key" : 20050305
+	},
+	{
+		"payment_key" : 19,
+		"customer_id" : 124,
+		"check_num" : "BG255406",
+		"amount" : 85410.87,
+		"payment_date_key" : 20040828
+	},
+	{
+		"payment_key" : 20,
+		"customer_id" : 124,
+		"check_num" : "CQ287967",
+		"amount" : 11044.3,
+		"payment_date_key" : 20030411
+	},
+	{
+		"payment_key" : 21,
+		"customer_id" : 124,
+		"check_num" : "ET64396",
+		"amount" : 83598.04,
+		"payment_date_key" : 20050416
+	},
+	{
+		"payment_key" : 22,
+		"customer_id" : 124,
+		"check_num" : "HI366474",
+		"amount" : 47142.7,
+		"payment_date_key" : 20041227
+	},
+	{
+		"payment_key" : 23,
+		"customer_id" : 124,
+		"check_num" : "HR86578",
+		"amount" : 55639.66,
+		"payment_date_key" : 20041102
+	},
+	{
+		"payment_key" : 24,
+		"customer_id" : 124,
+		"check_num" : "KI131716",
+		"amount" : 111654.4,
+		"payment_date_key" : 20030815
+	},
+	{
+		"payment_key" : 25,
+		"customer_id" : 124,
+		"check_num" : "LF217299",
+		"amount" : 43369.3,
+		"payment_date_key" : 20040326
+	},
+	{
+		"payment_key" : 26,
+		"customer_id" : 124,
+		"check_num" : "NT141748",
+		"amount" : 45084.38,
+		"payment_date_key" : 20031125
+	},
+	{
+		"payment_key" : 27,
+		"customer_id" : 128,
+		"check_num" : "DI925118",
+		"amount" : 10549.01,
+		"payment_date_key" : 20030128
+	},
+	{
+		"payment_key" : 28,
+		"customer_id" : 128,
+		"check_num" : "FA465482",
+		"amount" : 24101.81,
+		"payment_date_key" : 20031018
+	},
+	{
+		"payment_key" : 29,
+		"customer_id" : 128,
+		"check_num" : "FH668230",
+		"amount" : 33820.62,
+		"payment_date_key" : 20040324
+	},
+	{
+		"payment_key" : 30,
+		"customer_id" : 128,
+		"check_num" : "IP383901",
+		"amount" : 7466.32,
+		"payment_date_key" : 20041118
+	},
+	{
+		"payment_key" : 31,
+		"customer_id" : 129,
+		"check_num" : "DM826140",
+		"amount" : 26248.78,
+		"payment_date_key" : 20041208
+	},
+	{
+		"payment_key" : 32,
+		"customer_id" : 129,
+		"check_num" : "ID449593",
+		"amount" : 23923.93,
+		"payment_date_key" : 20031211
+	},
+	{
+		"payment_key" : 33,
+		"customer_id" : 129,
+		"check_num" : "PI42991",
+		"amount" : 16537.85,
+		"payment_date_key" : 20030409
+	},
+	{
+		"payment_key" : 34,
+		"customer_id" : 131,
+		"check_num" : "CL442705",
+		"amount" : 22292.62,
+		"payment_date_key" : 20030312
+	},
+	{
+		"payment_key" : 35,
+		"customer_id" : 131,
+		"check_num" : "MA724562",
+		"amount" : 50025.35,
+		"payment_date_key" : 20041202
+	},
+	{
+		"payment_key" : 36,
+		"customer_id" : 131,
+		"check_num" : "NB445135",
+		"amount" : 35321.97,
+		"payment_date_key" : 20040911
+	},
+	{
+		"payment_key" : 37,
+		"customer_id" : 141,
+		"check_num" : "AU364101",
+		"amount" : 36251.03,
+		"payment_date_key" : 20030719
+	},
+	{
+		"payment_key" : 38,
+		"customer_id" : 141,
+		"check_num" : "DB583216",
+		"amount" : 36140.38,
+		"payment_date_key" : 20041101
+	},
+	{
+		"payment_key" : 39,
+		"customer_id" : 141,
+		"check_num" : "DL460618",
+		"amount" : 46895.48,
+		"payment_date_key" : 20050519
+	},
+	{
+		"payment_key" : 40,
+		"customer_id" : 141,
+		"check_num" : "HJ32686",
+		"amount" : 59830.55,
+		"payment_date_key" : 20040130
+	},
+	{
+		"payment_key" : 41,
+		"customer_id" : 141,
+		"check_num" : "ID10962",
+		"amount" : 116208.4,
+		"payment_date_key" : 20041231
+	},
+	{
+		"payment_key" : 42,
+		"customer_id" : 141,
+		"check_num" : "IN446258",
+		"amount" : 65071.26,
+		"payment_date_key" : 20050325
+	},
+	{
+		"payment_key" : 43,
+		"customer_id" : 141,
+		"check_num" : "JE105477",
+		"amount" : 120166.58,
+		"payment_date_key" : 20050318
+	},
+	{
+		"payment_key" : 44,
+		"customer_id" : 141,
+		"check_num" : "JN355280",
+		"amount" : 49539.37,
+		"payment_date_key" : 20031026
+	},
+	{
+		"payment_key" : 45,
+		"customer_id" : 141,
+		"check_num" : "JN722010",
+		"amount" : 40206.2,
+		"payment_date_key" : 20030225
+	},
+	{
+		"payment_key" : 46,
+		"customer_id" : 141,
+		"check_num" : "KT52578",
+		"amount" : 63843.55,
+		"payment_date_key" : 20031209
+	},
+	{
+		"payment_key" : 47,
+		"customer_id" : 141,
+		"check_num" : "MC46946",
+		"amount" : 35420.74,
+		"payment_date_key" : 20040709
+	},
+	{
+		"payment_key" : 48,
+		"customer_id" : 141,
+		"check_num" : "MF629602",
+		"amount" : 20009.53,
+		"payment_date_key" : 20040816
+	},
+	{
+		"payment_key" : 49,
+		"customer_id" : 141,
+		"check_num" : "NU627706",
+		"amount" : 26155.91,
+		"payment_date_key" : 20040517
+	},
+	{
+		"payment_key" : 50,
+		"customer_id" : 144,
+		"check_num" : "IR846303",
+		"amount" : 36005.71,
+		"payment_date_key" : 20041212
+	},
+	{
+		"payment_key" : 51,
+		"customer_id" : 144,
+		"check_num" : "LA685678",
+		"amount" : 7674.94,
+		"payment_date_key" : 20030409
+	},
+	{
+		"payment_key" : 52,
+		"customer_id" : 145,
+		"check_num" : "CN328545",
+		"amount" : 4710.73,
+		"payment_date_key" : 20040703
+	},
+	{
+		"payment_key" : 53,
+		"customer_id" : 145,
+		"check_num" : "ED39322",
+		"amount" : 28211.7,
+		"payment_date_key" : 20040426
+	},
+	{
+		"payment_key" : 54,
+		"customer_id" : 145,
+		"check_num" : "HR182688",
+		"amount" : 20564.86,
+		"payment_date_key" : 20041201
+	},
+	{
+		"payment_key" : 55,
+		"customer_id" : 145,
+		"check_num" : "JJ246391",
+		"amount" : 53959.21,
+		"payment_date_key" : 20030220
+	},
+	{
+		"payment_key" : 56,
+		"customer_id" : 146,
+		"check_num" : "FP549817",
+		"amount" : 40978.53,
+		"payment_date_key" : 20040318
+	},
+	{
+		"payment_key" : 57,
+		"customer_id" : 146,
+		"check_num" : "FU793410",
+		"amount" : 49614.72,
+		"payment_date_key" : 20040116
+	},
+	{
+		"payment_key" : 58,
+		"customer_id" : 146,
+		"check_num" : "LJ160635",
+		"amount" : 39712.1,
+		"payment_date_key" : 20031210
+	},
+	{
+		"payment_key" : 59,
+		"customer_id" : 148,
+		"check_num" : "BI507030",
+		"amount" : 44380.15,
+		"payment_date_key" : 20030422
+	},
+	{
+		"payment_key" : 60,
+		"customer_id" : 148,
+		"check_num" : "DD635282",
+		"amount" : 2611.84,
+		"payment_date_key" : 20040811
+	},
+	{
+		"payment_key" : 61,
+		"customer_id" : 148,
+		"check_num" : "KM172879",
+		"amount" : 105743,
+		"payment_date_key" : 20031226
+	},
+	{
+		"payment_key" : 62,
+		"customer_id" : 148,
+		"check_num" : "ME497970",
+		"amount" : 3516.04,
+		"payment_date_key" : 20050327
+	},
+	{
+		"payment_key" : 63,
+		"customer_id" : 151,
+		"check_num" : "BF686658",
+		"amount" : 58793.53,
+		"payment_date_key" : 20031222
+	},
+	{
+		"payment_key" : 64,
+		"customer_id" : 151,
+		"check_num" : "GB852215",
+		"amount" : 20314.44,
+		"payment_date_key" : 20040726
+	},
+	{
+		"payment_key" : 65,
+		"customer_id" : 151,
+		"check_num" : "IP568906",
+		"amount" : 58841.35,
+		"payment_date_key" : 20030618
+	},
+	{
+		"payment_key" : 66,
+		"customer_id" : 151,
+		"check_num" : "KI884577",
+		"amount" : 39964.63,
+		"payment_date_key" : 20041214
+	},
+	{
+		"payment_key" : 67,
+		"customer_id" : 157,
+		"check_num" : "HI618861",
+		"amount" : 35152.12,
+		"payment_date_key" : 20041119
+	},
+	{
+		"payment_key" : 68,
+		"customer_id" : 157,
+		"check_num" : "NN711988",
+		"amount" : 63357.13,
+		"payment_date_key" : 20040907
+	},
+	{
+		"payment_key" : 69,
+		"customer_id" : 161,
+		"check_num" : "BR352384",
+		"amount" : 2434.25,
+		"payment_date_key" : 20041114
+	},
+	{
+		"payment_key" : 70,
+		"customer_id" : 161,
+		"check_num" : "BR478494",
+		"amount" : 50743.65,
+		"payment_date_key" : 20031118
+	},
+	{
+		"payment_key" : 71,
+		"customer_id" : 161,
+		"check_num" : "KG644125",
+		"amount" : 12692.19,
+		"payment_date_key" : 20050202
+	},
+	{
+		"payment_key" : 72,
+		"customer_id" : 161,
+		"check_num" : "NI908214",
+		"amount" : 38675.13,
+		"payment_date_key" : 20030805
+	},
+	{
+		"payment_key" : 73,
+		"customer_id" : 166,
+		"check_num" : "BQ327613",
+		"amount" : 38785.48,
+		"payment_date_key" : 20040916
+	},
+	{
+		"payment_key" : 74,
+		"customer_id" : 166,
+		"check_num" : "DC979307",
+		"amount" : 44160.92,
+		"payment_date_key" : 20040707
+	},
+	{
+		"payment_key" : 75,
+		"customer_id" : 166,
+		"check_num" : "LA318629",
+		"amount" : 22474.17,
+		"payment_date_key" : 20040228
+	},
+	{
+		"payment_key" : 76,
+		"customer_id" : 167,
+		"check_num" : "ED743615",
+		"amount" : 12538.01,
+		"payment_date_key" : 20040919
+	},
+	{
+		"payment_key" : 77,
+		"customer_id" : 167,
+		"check_num" : "GN228846",
+		"amount" : 85024.46,
+		"payment_date_key" : 20031203
+	},
+	{
+		"payment_key" : 78,
+		"customer_id" : 171,
+		"check_num" : "GB878038",
+		"amount" : 18997.89,
+		"payment_date_key" : 20040315
+	},
+	{
+		"payment_key" : 79,
+		"customer_id" : 171,
+		"check_num" : "IL104425",
+		"amount" : 42783.81,
+		"payment_date_key" : 20031122
+	},
+	{
+		"payment_key" : 80,
+		"customer_id" : 172,
+		"check_num" : "AD832091",
+		"amount" : 1960.8,
+		"payment_date_key" : 20040909
+	},
+	{
+		"payment_key" : 81,
+		"customer_id" : 172,
+		"check_num" : "CE51751",
+		"amount" : 51209.58,
+		"payment_date_key" : 20041204
+	},
+	{
+		"payment_key" : 82,
+		"customer_id" : 172,
+		"check_num" : "EH208589",
+		"amount" : 33383.14,
+		"payment_date_key" : 20030420
+	},
+	{
+		"payment_key" : 83,
+		"customer_id" : 173,
+		"check_num" : "GP545698",
+		"amount" : 11843.45,
+		"payment_date_key" : 20040513
+	},
+	{
+		"payment_key" : 84,
+		"customer_id" : 173,
+		"check_num" : "IG462397",
+		"amount" : 20355.24,
+		"payment_date_key" : 20040329
+	},
+	{
+		"payment_key" : 85,
+		"customer_id" : 175,
+		"check_num" : "CITI3434344",
+		"amount" : 28500.78,
+		"payment_date_key" : 20050519
+	},
+	{
+		"payment_key" : 86,
+		"customer_id" : 175,
+		"check_num" : "IO448913",
+		"amount" : 24879.08,
+		"payment_date_key" : 20031119
+	},
+	{
+		"payment_key" : 87,
+		"customer_id" : 175,
+		"check_num" : "PI15215",
+		"amount" : 42044.77,
+		"payment_date_key" : 20040710
+	},
+	{
+		"payment_key" : 88,
+		"customer_id" : 177,
+		"check_num" : "AU750837",
+		"amount" : 15183.63,
+		"payment_date_key" : 20040417
+	},
+	{
+		"payment_key" : 89,
+		"customer_id" : 177,
+		"check_num" : "CI381435",
+		"amount" : 47177.59,
+		"payment_date_key" : 20040119
+	},
+	{
+		"payment_key" : 90,
+		"customer_id" : 181,
+		"check_num" : "CM564612",
+		"amount" : 22602.36,
+		"payment_date_key" : 20040425
+	},
+	{
+		"payment_key" : 91,
+		"customer_id" : 181,
+		"check_num" : "GQ132144",
+		"amount" : 5494.78,
+		"payment_date_key" : 20030130
+	},
+	{
+		"payment_key" : 92,
+		"customer_id" : 181,
+		"check_num" : "OH367219",
+		"amount" : 44400.5,
+		"payment_date_key" : 20041116
+	},
+	{
+		"payment_key" : 93,
+		"customer_id" : 186,
+		"check_num" : "AE192287",
+		"amount" : 23602.9,
+		"payment_date_key" : 20050310
+	},
+	{
+		"payment_key" : 94,
+		"customer_id" : 186,
+		"check_num" : "AK412714",
+		"amount" : 37602.48,
+		"payment_date_key" : 20031027
+	},
+	{
+		"payment_key" : 95,
+		"customer_id" : 186,
+		"check_num" : "KA602407",
+		"amount" : 34341.08,
+		"payment_date_key" : 20041021
+	},
+	{
+		"payment_key" : 96,
+		"customer_id" : 187,
+		"check_num" : "AM968797",
+		"amount" : 52825.29,
+		"payment_date_key" : 20041103
+	},
+	{
+		"payment_key" : 97,
+		"customer_id" : 187,
+		"check_num" : "BQ39062",
+		"amount" : 47159.11,
+		"payment_date_key" : 20041208
+	},
+	{
+		"payment_key" : 98,
+		"customer_id" : 187,
+		"check_num" : "KL124726",
+		"amount" : 48425.69,
+		"payment_date_key" : 20030327
+	},
+	{
+		"payment_key" : 99,
+		"customer_id" : 189,
+		"check_num" : "BO711618",
+		"amount" : 17359.53,
+		"payment_date_key" : 20041003
+	},
+	{
+		"payment_key" : 100,
+		"customer_id" : 189,
+		"check_num" : "NM916675",
+		"amount" : 32538.74,
+		"payment_date_key" : 20040301
+	},
+	{
+		"payment_key" : 101,
+		"customer_id" : 198,
+		"check_num" : "FI192930",
+		"amount" : 9658.74,
+		"payment_date_key" : 20041206
+	},
+	{
+		"payment_key" : 102,
+		"customer_id" : 198,
+		"check_num" : "HQ920205",
+		"amount" : 6036.96,
+		"payment_date_key" : 20030706
+	},
+	{
+		"payment_key" : 103,
+		"customer_id" : 198,
+		"check_num" : "IS946883",
+		"amount" : 5858.56,
+		"payment_date_key" : 20040921
+	},
+	{
+		"payment_key" : 104,
+		"customer_id" : 201,
+		"check_num" : "DP677013",
+		"amount" : 23908.24,
+		"payment_date_key" : 20031020
+	},
+	{
+		"payment_key" : 105,
+		"customer_id" : 201,
+		"check_num" : "OO846801",
+		"amount" : 37258.94,
+		"payment_date_key" : 20040615
+	},
+	{
+		"payment_key" : 106,
+		"customer_id" : 202,
+		"check_num" : "HI358554",
+		"amount" : 36527.61,
+		"payment_date_key" : 20031218
+	},
+	{
+		"payment_key" : 107,
+		"customer_id" : 202,
+		"check_num" : "IQ627690",
+		"amount" : 33594.58,
+		"payment_date_key" : 20041108
+	},
+	{
+		"payment_key" : 108,
+		"customer_id" : 204,
+		"check_num" : "GC697638",
+		"amount" : 51152.86,
+		"payment_date_key" : 20040813
+	},
+	{
+		"payment_key" : 109,
+		"customer_id" : 204,
+		"check_num" : "IS150005",
+		"amount" : 4424.4,
+		"payment_date_key" : 20040924
+	},
+	{
+		"payment_key" : 110,
+		"customer_id" : 205,
+		"check_num" : "GL756480",
+		"amount" : 3879.96,
+		"payment_date_key" : 20031204
+	},
+	{
+		"payment_key" : 111,
+		"customer_id" : 205,
+		"check_num" : "LL562733",
+		"amount" : 50342.74,
+		"payment_date_key" : 20030905
+	},
+	{
+		"payment_key" : 112,
+		"customer_id" : 205,
+		"check_num" : "NM739638",
+		"amount" : 39580.6,
+		"payment_date_key" : 20050206
+	},
+	{
+		"payment_key" : 113,
+		"customer_id" : 209,
+		"check_num" : "BOAF82044",
+		"amount" : 35157.75,
+		"payment_date_key" : 20050503
+	},
+	{
+		"payment_key" : 114,
+		"customer_id" : 209,
+		"check_num" : "ED520529",
+		"amount" : 4632.31,
+		"payment_date_key" : 20040621
+	},
+	{
+		"payment_key" : 115,
+		"customer_id" : 209,
+		"check_num" : "PH785937",
+		"amount" : 36069.26,
+		"payment_date_key" : 20040504
+	},
+	{
+		"payment_key" : 116,
+		"customer_id" : 211,
+		"check_num" : "BJ535230",
+		"amount" : 45480.79,
+		"payment_date_key" : 20031209
+	},
+	{
+		"payment_key" : 117,
+		"customer_id" : 216,
+		"check_num" : "BG407567",
+		"amount" : 3101.4,
+		"payment_date_key" : 20030509
+	},
+	{
+		"payment_key" : 118,
+		"customer_id" : 216,
+		"check_num" : "ML780814",
+		"amount" : 24945.21,
+		"payment_date_key" : 20041206
+	},
+	{
+		"payment_key" : 119,
+		"customer_id" : 216,
+		"check_num" : "MM342086",
+		"amount" : 40473.86,
+		"payment_date_key" : 20031214
+	},
+	{
+		"payment_key" : 120,
+		"customer_id" : 219,
+		"check_num" : "BN17870",
+		"amount" : 3452.75,
+		"payment_date_key" : 20050302
+	},
+	{
+		"payment_key" : 121,
+		"customer_id" : 219,
+		"check_num" : "BR941480",
+		"amount" : 4465.85,
+		"payment_date_key" : 20031018
+	},
+	{
+		"payment_key" : 122,
+		"customer_id" : 227,
+		"check_num" : "MQ413968",
+		"amount" : 36164.46,
+		"payment_date_key" : 20031031
+	},
+	{
+		"payment_key" : 123,
+		"customer_id" : 227,
+		"check_num" : "NU21326",
+		"amount" : 53745.34,
+		"payment_date_key" : 20041102
+	},
+	{
+		"payment_key" : 124,
+		"customer_id" : 233,
+		"check_num" : "BOFA23232",
+		"amount" : 29070.38,
+		"payment_date_key" : 20050520
+	},
+	{
+		"payment_key" : 125,
+		"customer_id" : 233,
+		"check_num" : "II180006",
+		"amount" : 22997.45,
+		"payment_date_key" : 20040701
+	},
+	{
+		"payment_key" : 126,
+		"customer_id" : 233,
+		"check_num" : "JG981190",
+		"amount" : 16909.84,
+		"payment_date_key" : 20031118
+	},
+	{
+		"payment_key" : 127,
+		"customer_id" : 239,
+		"check_num" : "NQ865547",
+		"amount" : 80375.24,
+		"payment_date_key" : 20040315
+	},
+	{
+		"payment_key" : 128,
+		"customer_id" : 240,
+		"check_num" : "IF245157",
+		"amount" : 46788.14,
+		"payment_date_key" : 20041116
+	},
+	{
+		"payment_key" : 129,
+		"customer_id" : 240,
+		"check_num" : "JO719695",
+		"amount" : 24995.61,
+		"payment_date_key" : 20040328
+	},
+	{
+		"payment_key" : 130,
+		"customer_id" : 242,
+		"check_num" : "AF40894",
+		"amount" : 33818.34,
+		"payment_date_key" : 20031122
+	},
+	{
+		"payment_key" : 131,
+		"customer_id" : 242,
+		"check_num" : "HR224331",
+		"amount" : 12432.32,
+		"payment_date_key" : 20050603
+	},
+	{
+		"payment_key" : 132,
+		"customer_id" : 242,
+		"check_num" : "KI744716",
+		"amount" : 14232.7,
+		"payment_date_key" : 20030721
+	},
+	{
+		"payment_key" : 133,
+		"customer_id" : 249,
+		"check_num" : "IJ399820",
+		"amount" : 33924.24,
+		"payment_date_key" : 20040919
+	},
+	{
+		"payment_key" : 134,
+		"customer_id" : 249,
+		"check_num" : "NE404084",
+		"amount" : 48298.99,
+		"payment_date_key" : 20040904
+	},
+	{
+		"payment_key" : 135,
+		"customer_id" : 250,
+		"check_num" : "EQ12267",
+		"amount" : 17928.09,
+		"payment_date_key" : 20050517
+	},
+	{
+		"payment_key" : 136,
+		"customer_id" : 250,
+		"check_num" : "HD284647",
+		"amount" : 26311.63,
+		"payment_date_key" : 20041230
+	},
+	{
+		"payment_key" : 137,
+		"customer_id" : 250,
+		"check_num" : "HN114306",
+		"amount" : 23419.47,
+		"payment_date_key" : 20030718
+	},
+	{
+		"payment_key" : 138,
+		"customer_id" : 256,
+		"check_num" : "EP227123",
+		"amount" : 5759.42,
+		"payment_date_key" : 20040210
+	},
+	{
+		"payment_key" : 139,
+		"customer_id" : 256,
+		"check_num" : "HE84936",
+		"amount" : 53116.99,
+		"payment_date_key" : 20041022
+	},
+	{
+		"payment_key" : 140,
+		"customer_id" : 259,
+		"check_num" : "EU280955",
+		"amount" : 61234.67,
+		"payment_date_key" : 20041106
+	},
+	{
+		"payment_key" : 141,
+		"customer_id" : 259,
+		"check_num" : "GB361972",
+		"amount" : 27988.47,
+		"payment_date_key" : 20031207
+	},
+	{
+		"payment_key" : 142,
+		"customer_id" : 260,
+		"check_num" : "IO164641",
+		"amount" : 37527.58,
+		"payment_date_key" : 20040830
+	},
+	{
+		"payment_key" : 143,
+		"customer_id" : 260,
+		"check_num" : "NH776924",
+		"amount" : 29284.42,
+		"payment_date_key" : 20040424
+	},
+	{
+		"payment_key" : 144,
+		"customer_id" : 276,
+		"check_num" : "EM979878",
+		"amount" : 27083.78,
+		"payment_date_key" : 20050209
+	},
+	{
+		"payment_key" : 145,
+		"customer_id" : 276,
+		"check_num" : "KM841847",
+		"amount" : 38547.19,
+		"payment_date_key" : 20031113
+	},
+	{
+		"payment_key" : 146,
+		"customer_id" : 276,
+		"check_num" : "LE432182",
+		"amount" : 41554.73,
+		"payment_date_key" : 20030928
+	},
+	{
+		"payment_key" : 147,
+		"customer_id" : 276,
+		"check_num" : "OJ819725",
+		"amount" : 29848.52,
+		"payment_date_key" : 20050430
+	},
+	{
+		"payment_key" : 148,
+		"customer_id" : 278,
+		"check_num" : "BJ483870",
+		"amount" : 37654.09,
+		"payment_date_key" : 20041205
+	},
+	{
+		"payment_key" : 149,
+		"customer_id" : 278,
+		"check_num" : "GP636783",
+		"amount" : 52151.81,
+		"payment_date_key" : 20030302
+	},
+	{
+		"payment_key" : 150,
+		"customer_id" : 278,
+		"check_num" : "NI983021",
+		"amount" : 37723.79,
+		"payment_date_key" : 20031124
+	},
+	{
+		"payment_key" : 151,
+		"customer_id" : 282,
+		"check_num" : "IA793562",
+		"amount" : 24013.52,
+		"payment_date_key" : 20030803
+	},
+	{
+		"payment_key" : 152,
+		"customer_id" : 282,
+		"check_num" : "JT819493",
+		"amount" : 35806.73,
+		"payment_date_key" : 20040802
+	},
+	{
+		"payment_key" : 153,
+		"customer_id" : 282,
+		"check_num" : "OD327378",
+		"amount" : 31835.36,
+		"payment_date_key" : 20050103
+	},
+	{
+		"payment_key" : 154,
+		"customer_id" : 286,
+		"check_num" : "DR578578",
+		"amount" : 47411.33,
+		"payment_date_key" : 20041028
+	},
+	{
+		"payment_key" : 155,
+		"customer_id" : 286,
+		"check_num" : "KH910279",
+		"amount" : 43134.04,
+		"payment_date_key" : 20040905
+	},
+	{
+		"payment_key" : 156,
+		"customer_id" : 298,
+		"check_num" : "AJ574927",
+		"amount" : 47375.92,
+		"payment_date_key" : 20040313
+	},
+	{
+		"payment_key" : 157,
+		"customer_id" : 298,
+		"check_num" : "LF501133",
+		"amount" : 61402,
+		"payment_date_key" : 20040918
+	},
+	{
+		"payment_key" : 158,
+		"customer_id" : 299,
+		"check_num" : "AD304085",
+		"amount" : 36798.88,
+		"payment_date_key" : 20031024
+	},
+	{
+		"payment_key" : 159,
+		"customer_id" : 299,
+		"check_num" : "NR157385",
+		"amount" : 32260.16,
+		"payment_date_key" : 20040905
+	},
+	{
+		"payment_key" : 160,
+		"customer_id" : 311,
+		"check_num" : "DG336041",
+		"amount" : 46770.52,
+		"payment_date_key" : 20050215
+	},
+	{
+		"payment_key" : 161,
+		"customer_id" : 311,
+		"check_num" : "FA728475",
+		"amount" : 32723.04,
+		"payment_date_key" : 20031006
+	},
+	{
+		"payment_key" : 162,
+		"customer_id" : 311,
+		"check_num" : "NQ966143",
+		"amount" : 16212.59,
+		"payment_date_key" : 20040425
+	},
+	{
+		"payment_key" : 163,
+		"customer_id" : 314,
+		"check_num" : "LQ244073",
+		"amount" : 45352.47,
+		"payment_date_key" : 20040809
+	},
+	{
+		"payment_key" : 164,
+		"customer_id" : 314,
+		"check_num" : "MD809704",
+		"amount" : 16901.38,
+		"payment_date_key" : 20040303
+	},
+	{
+		"payment_key" : 165,
+		"customer_id" : 319,
+		"check_num" : "HL685576",
+		"amount" : 42339.76,
+		"payment_date_key" : 20041106
+	},
+	{
+		"payment_key" : 166,
+		"customer_id" : 319,
+		"check_num" : "OM548174",
+		"amount" : 36092.4,
+		"payment_date_key" : 20031207
+	},
+	{
+		"payment_key" : 167,
+		"customer_id" : 320,
+		"check_num" : "GJ597719",
+		"amount" : 8307.28,
+		"payment_date_key" : 20050118
+	},
+	{
+		"payment_key" : 168,
+		"customer_id" : 320,
+		"check_num" : "HO576374",
+		"amount" : 41016.75,
+		"payment_date_key" : 20030820
+	},
+	{
+		"payment_key" : 169,
+		"customer_id" : 320,
+		"check_num" : "MU817160",
+		"amount" : 52548.49,
+		"payment_date_key" : 20031124
+	},
+	{
+		"payment_key" : 170,
+		"customer_id" : 321,
+		"check_num" : "DJ15149",
+		"amount" : 85559.12,
+		"payment_date_key" : 20031103
+	},
+	{
+		"payment_key" : 171,
+		"customer_id" : 321,
+		"check_num" : "LA556321",
+		"amount" : 46781.66,
+		"payment_date_key" : 20050315
+	},
+	{
+		"payment_key" : 172,
+		"customer_id" : 323,
+		"check_num" : "AL493079",
+		"amount" : 75020.13,
+		"payment_date_key" : 20050523
+	},
+	{
+		"payment_key" : 173,
+		"customer_id" : 323,
+		"check_num" : "ES347491",
+		"amount" : 37281.36,
+		"payment_date_key" : 20040624
+	},
+	{
+		"payment_key" : 174,
+		"customer_id" : 323,
+		"check_num" : "HG738664",
+		"amount" : 2880,
+		"payment_date_key" : 20030705
+	},
+	{
+		"payment_key" : 175,
+		"customer_id" : 323,
+		"check_num" : "PQ803830",
+		"amount" : 39440.59,
+		"payment_date_key" : 20041224
+	},
+	{
+		"payment_key" : 176,
+		"customer_id" : 324,
+		"check_num" : "DQ409197",
+		"amount" : 13671.82,
+		"payment_date_key" : 20041213
+	},
+	{
+		"payment_key" : 177,
+		"customer_id" : 324,
+		"check_num" : "FP443161",
+		"amount" : 29429.14,
+		"payment_date_key" : 20030707
+	},
+	{
+		"payment_key" : 178,
+		"customer_id" : 324,
+		"check_num" : "HB150714",
+		"amount" : 37455.77,
+		"payment_date_key" : 20031123
+	},
+	{
+		"payment_key" : 179,
+		"customer_id" : 328,
+		"check_num" : "EN930356",
+		"amount" : 7178.66,
+		"payment_date_key" : 20040416
+	},
+	{
+		"payment_key" : 180,
+		"customer_id" : 328,
+		"check_num" : "NR631421",
+		"amount" : 31102.85,
+		"payment_date_key" : 20040530
+	},
+	{
+		"payment_key" : 181,
+		"customer_id" : 333,
+		"check_num" : "HL209210",
+		"amount" : 23936.53,
+		"payment_date_key" : 20031115
+	},
+	{
+		"payment_key" : 182,
+		"customer_id" : 333,
+		"check_num" : "JK479662",
+		"amount" : 9821.32,
+		"payment_date_key" : 20031017
+	},
+	{
+		"payment_key" : 183,
+		"customer_id" : 333,
+		"check_num" : "NF959653",
+		"amount" : 21432.31,
+		"payment_date_key" : 20050301
+	},
+	{
+		"payment_key" : 184,
+		"customer_id" : 334,
+		"check_num" : "CS435306",
+		"amount" : 45785.34,
+		"payment_date_key" : 20050127
+	},
+	{
+		"payment_key" : 185,
+		"customer_id" : 334,
+		"check_num" : "HH517378",
+		"amount" : 29716.86,
+		"payment_date_key" : 20030816
+	},
+	{
+		"payment_key" : 186,
+		"customer_id" : 334,
+		"check_num" : "LF737277",
+		"amount" : 28394.54,
+		"payment_date_key" : 20040522
+	},
+	{
+		"payment_key" : 187,
+		"customer_id" : 339,
+		"check_num" : "AP286625",
+		"amount" : 23333.06,
+		"payment_date_key" : 20041024
+	},
+	{
+		"payment_key" : 188,
+		"customer_id" : 339,
+		"check_num" : "DA98827",
+		"amount" : 34606.28,
+		"payment_date_key" : 20031128
+	},
+	{
+		"payment_key" : 189,
+		"customer_id" : 344,
+		"check_num" : "AF246722",
+		"amount" : 31428.21,
+		"payment_date_key" : 20031124
+	},
+	{
+		"payment_key" : 190,
+		"customer_id" : 344,
+		"check_num" : "NJ906924",
+		"amount" : 15322.93,
+		"payment_date_key" : 20040402
+	},
+	{
+		"payment_key" : 191,
+		"customer_id" : 347,
+		"check_num" : "DG700707",
+		"amount" : 21053.69,
+		"payment_date_key" : 20040118
+	},
+	{
+		"payment_key" : 192,
+		"customer_id" : 347,
+		"check_num" : "LG808674",
+		"amount" : 20452.5,
+		"payment_date_key" : 20031024
+	},
+	{
+		"payment_key" : 193,
+		"customer_id" : 350,
+		"check_num" : "BQ602907",
+		"amount" : 18888.31,
+		"payment_date_key" : 20041211
+	},
+	{
+		"payment_key" : 194,
+		"customer_id" : 350,
+		"check_num" : "CI471510",
+		"amount" : 50824.66,
+		"payment_date_key" : 20030525
+	},
+	{
+		"payment_key" : 195,
+		"customer_id" : 350,
+		"check_num" : "OB648482",
+		"amount" : 1834.56,
+		"payment_date_key" : 20050129
+	},
+	{
+		"payment_key" : 196,
+		"customer_id" : 353,
+		"check_num" : "CO351193",
+		"amount" : 49705.52,
+		"payment_date_key" : 20050110
+	},
+	{
+		"payment_key" : 197,
+		"customer_id" : 353,
+		"check_num" : "ED878227",
+		"amount" : 13920.26,
+		"payment_date_key" : 20030721
+	},
+	{
+		"payment_key" : 198,
+		"customer_id" : 353,
+		"check_num" : "GT878649",
+		"amount" : 16700.47,
+		"payment_date_key" : 20030521
+	},
+	{
+		"payment_key" : 199,
+		"customer_id" : 353,
+		"check_num" : "HJ618252",
+		"amount" : 46656.94,
+		"payment_date_key" : 20050609
+	},
+	{
+		"payment_key" : 200,
+		"customer_id" : 357,
+		"check_num" : "AG240323",
+		"amount" : 20220.04,
+		"payment_date_key" : 20031216
+	},
+	{
+		"payment_key" : 201,
+		"customer_id" : 357,
+		"check_num" : "NB291497",
+		"amount" : 36442.34,
+		"payment_date_key" : 20040515
+	},
+	{
+		"payment_key" : 202,
+		"customer_id" : 362,
+		"check_num" : "FP170292",
+		"amount" : 18473.71,
+		"payment_date_key" : 20040711
+	},
+	{
+		"payment_key" : 203,
+		"customer_id" : 362,
+		"check_num" : "OG208861",
+		"amount" : 15059.76,
+		"payment_date_key" : 20040921
+	},
+	{
+		"payment_key" : 204,
+		"customer_id" : 363,
+		"check_num" : "HL575273",
+		"amount" : 50799.69,
+		"payment_date_key" : 20041117
+	},
+	{
+		"payment_key" : 205,
+		"customer_id" : 363,
+		"check_num" : "IS232033",
+		"amount" : 10223.83,
+		"payment_date_key" : 20030116
+	},
+	{
+		"payment_key" : 206,
+		"customer_id" : 363,
+		"check_num" : "PN238558",
+		"amount" : 55425.77,
+		"payment_date_key" : 20031205
+	},
+	{
+		"payment_key" : 207,
+		"customer_id" : 379,
+		"check_num" : "CA762595",
+		"amount" : 28322.83,
+		"payment_date_key" : 20050212
+	},
+	{
+		"payment_key" : 208,
+		"customer_id" : 379,
+		"check_num" : "FR499138",
+		"amount" : 32680.31,
+		"payment_date_key" : 20030916
+	},
+	{
+		"payment_key" : 209,
+		"customer_id" : 379,
+		"check_num" : "GB890854",
+		"amount" : 12530.51,
+		"payment_date_key" : 20040802
+	},
+	{
+		"payment_key" : 210,
+		"customer_id" : 381,
+		"check_num" : "BC726082",
+		"amount" : 12081.52,
+		"payment_date_key" : 20041203
+	},
+	{
+		"payment_key" : 211,
+		"customer_id" : 381,
+		"check_num" : "CC475233",
+		"amount" : 1627.56,
+		"payment_date_key" : 20030419
+	},
+	{
+		"payment_key" : 212,
+		"customer_id" : 381,
+		"check_num" : "GB117430",
+		"amount" : 14379.9,
+		"payment_date_key" : 20050203
+	},
+	{
+		"payment_key" : 213,
+		"customer_id" : 381,
+		"check_num" : "MS154481",
+		"amount" : 1128.2,
+		"payment_date_key" : 20030822
+	},
+	{
+		"payment_key" : 214,
+		"customer_id" : 382,
+		"check_num" : "CC871084",
+		"amount" : 35826.33,
+		"payment_date_key" : 20030512
+	},
+	{
+		"payment_key" : 215,
+		"customer_id" : 382,
+		"check_num" : "CT821147",
+		"amount" : 6419.84,
+		"payment_date_key" : 20040801
+	},
+	{
+		"payment_key" : 216,
+		"customer_id" : 382,
+		"check_num" : "PH29054",
+		"amount" : 42813.83,
+		"payment_date_key" : 20041127
+	},
+	{
+		"payment_key" : 217,
+		"customer_id" : 385,
+		"check_num" : "BN347084",
+		"amount" : 20644.24,
+		"payment_date_key" : 20031202
+	},
+	{
+		"payment_key" : 218,
+		"customer_id" : 385,
+		"check_num" : "CP804873",
+		"amount" : 15822.84,
+		"payment_date_key" : 20041119
+	},
+	{
+		"payment_key" : 219,
+		"customer_id" : 385,
+		"check_num" : "EK785462",
+		"amount" : 51001.22,
+		"payment_date_key" : 20030309
+	},
+	{
+		"payment_key" : 220,
+		"customer_id" : 386,
+		"check_num" : "DO106109",
+		"amount" : 38524.29,
+		"payment_date_key" : 20031118
+	},
+	{
+		"payment_key" : 221,
+		"customer_id" : 386,
+		"check_num" : "HG438769",
+		"amount" : 51619.02,
+		"payment_date_key" : 20040718
+	},
+	{
+		"payment_key" : 222,
+		"customer_id" : 398,
+		"check_num" : "AJ478695",
+		"amount" : 33967.73,
+		"payment_date_key" : 20050214
+	},
+	{
+		"payment_key" : 223,
+		"customer_id" : 398,
+		"check_num" : "DO787644",
+		"amount" : 22037.91,
+		"payment_date_key" : 20040621
+	},
+	{
+		"payment_key" : 224,
+		"customer_id" : 398,
+		"check_num" : "JPMR4544",
+		"amount" : 615.45,
+		"payment_date_key" : 20050518
+	},
+	{
+		"payment_key" : 225,
+		"customer_id" : 398,
+		"check_num" : "KB54275",
+		"amount" : 48927.64,
+		"payment_date_key" : 20041129
+	},
+	{
+		"payment_key" : 226,
+		"customer_id" : 406,
+		"check_num" : "BJMPR4545",
+		"amount" : 12190.85,
+		"payment_date_key" : 20050423
+	},
+	{
+		"payment_key" : 227,
+		"customer_id" : 406,
+		"check_num" : "HJ217687",
+		"amount" : 49165.16,
+		"payment_date_key" : 20040128
+	},
+	{
+		"payment_key" : 228,
+		"customer_id" : 406,
+		"check_num" : "NA197101",
+		"amount" : 25080.96,
+		"payment_date_key" : 20040617
+	},
+	{
+		"payment_key" : 229,
+		"customer_id" : 412,
+		"check_num" : "GH197075",
+		"amount" : 35034.57,
+		"payment_date_key" : 20040725
+	},
+	{
+		"payment_key" : 230,
+		"customer_id" : 412,
+		"check_num" : "PJ434867",
+		"amount" : 31670.37,
+		"payment_date_key" : 20040414
+	},
+	{
+		"payment_key" : 231,
+		"customer_id" : 415,
+		"check_num" : "ER54537",
+		"amount" : 31310.09,
+		"payment_date_key" : 20040928
+	},
+	{
+		"payment_key" : 232,
+		"customer_id" : 424,
+		"check_num" : "KF480160",
+		"amount" : 25505.98,
+		"payment_date_key" : 20041207
+	},
+	{
+		"payment_key" : 233,
+		"customer_id" : 424,
+		"check_num" : "LM271923",
+		"amount" : 21665.98,
+		"payment_date_key" : 20030416
+	},
+	{
+		"payment_key" : 234,
+		"customer_id" : 424,
+		"check_num" : "OA595449",
+		"amount" : 22042.37,
+		"payment_date_key" : 20031031
+	},
+	{
+		"payment_key" : 235,
+		"customer_id" : 447,
+		"check_num" : "AO757239",
+		"amount" : 6631.36,
+		"payment_date_key" : 20030915
+	},
+	{
+		"payment_key" : 236,
+		"customer_id" : 447,
+		"check_num" : "ER615123",
+		"amount" : 17032.29,
+		"payment_date_key" : 20030625
+	},
+	{
+		"payment_key" : 237,
+		"customer_id" : 447,
+		"check_num" : "OU516561",
+		"amount" : 26304.13,
+		"payment_date_key" : 20041217
+	},
+	{
+		"payment_key" : 238,
+		"customer_id" : 448,
+		"check_num" : "FS299615",
+		"amount" : 27966.54,
+		"payment_date_key" : 20050418
+	},
+	{
+		"payment_key" : 239,
+		"customer_id" : 448,
+		"check_num" : "KR822727",
+		"amount" : 48809.9,
+		"payment_date_key" : 20040930
+	},
+	{
+		"payment_key" : 240,
+		"customer_id" : 450,
+		"check_num" : "EF485824",
+		"amount" : 59551.38,
+		"payment_date_key" : 20040621
+	},
+	{
+		"payment_key" : 241,
+		"customer_id" : 452,
+		"check_num" : "ED473873",
+		"amount" : 27121.9,
+		"payment_date_key" : 20031115
+	},
+	{
+		"payment_key" : 242,
+		"customer_id" : 452,
+		"check_num" : "FN640986",
+		"amount" : 15130.97,
+		"payment_date_key" : 20031120
+	},
+	{
+		"payment_key" : 243,
+		"customer_id" : 452,
+		"check_num" : "HG635467",
+		"amount" : 8807.12,
+		"payment_date_key" : 20050503
+	},
+	{
+		"payment_key" : 244,
+		"customer_id" : 455,
+		"check_num" : "HA777606",
+		"amount" : 38139.18,
+		"payment_date_key" : 20031205
+	},
+	{
+		"payment_key" : 245,
+		"customer_id" : 455,
+		"check_num" : "IR662429",
+		"amount" : 32239.47,
+		"payment_date_key" : 20040512
+	},
+	{
+		"payment_key" : 246,
+		"customer_id" : 456,
+		"check_num" : "GJ715659",
+		"amount" : 27550.51,
+		"payment_date_key" : 20041113
+	},
+	{
+		"payment_key" : 247,
+		"customer_id" : 456,
+		"check_num" : "MO743231",
+		"amount" : 1679.92,
+		"payment_date_key" : 20040430
+	},
+	{
+		"payment_key" : 248,
+		"customer_id" : 458,
+		"check_num" : "DD995006",
+		"amount" : 33145.56,
+		"payment_date_key" : 20041115
+	},
+	{
+		"payment_key" : 249,
+		"customer_id" : 458,
+		"check_num" : "NA377824",
+		"amount" : 22162.61,
+		"payment_date_key" : 20040206
+	},
+	{
+		"payment_key" : 250,
+		"customer_id" : 458,
+		"check_num" : "OO606861",
+		"amount" : 57131.92,
+		"payment_date_key" : 20030613
+	},
+	{
+		"payment_key" : 251,
+		"customer_id" : 462,
+		"check_num" : "ED203908",
+		"amount" : 30293.77,
+		"payment_date_key" : 20050415
+	},
+	{
+		"payment_key" : 252,
+		"customer_id" : 462,
+		"check_num" : "GC60330",
+		"amount" : 9977.85,
+		"payment_date_key" : 20031108
+	},
+	{
+		"payment_key" : 253,
+		"customer_id" : 462,
+		"check_num" : "PE176846",
+		"amount" : 48355.87,
+		"payment_date_key" : 20041127
+	},
+	{
+		"payment_key" : 254,
+		"customer_id" : 471,
+		"check_num" : "AB661578",
+		"amount" : 9415.13,
+		"payment_date_key" : 20040728
+	},
+	{
+		"payment_key" : 255,
+		"customer_id" : 471,
+		"check_num" : "CO645196",
+		"amount" : 35505.63,
+		"payment_date_key" : 20031210
+	},
+	{
+		"payment_key" : 256,
+		"customer_id" : 473,
+		"check_num" : "LL427009",
+		"amount" : 7612.06,
+		"payment_date_key" : 20040217
+	},
+	{
+		"payment_key" : 257,
+		"customer_id" : 473,
+		"check_num" : "PC688499",
+		"amount" : 17746.26,
+		"payment_date_key" : 20031027
+	},
+	{
+		"payment_key" : 258,
+		"customer_id" : 475,
+		"check_num" : "JP113227",
+		"amount" : 7678.25,
+		"payment_date_key" : 20031209
+	},
+	{
+		"payment_key" : 259,
+		"customer_id" : 475,
+		"check_num" : "PB951268",
+		"amount" : 36070.47,
+		"payment_date_key" : 20040213
+	},
+	{
+		"payment_key" : 260,
+		"customer_id" : 484,
+		"check_num" : "GK294076",
+		"amount" : 3474.66,
+		"payment_date_key" : 20041026
+	},
+	{
+		"payment_key" : 261,
+		"customer_id" : 484,
+		"check_num" : "JH546765",
+		"amount" : 47513.19,
+		"payment_date_key" : 20031129
+	},
+	{
+		"payment_key" : 262,
+		"customer_id" : 486,
+		"check_num" : "BL66528",
+		"amount" : 5899.38,
+		"payment_date_key" : 20040414
+	},
+	{
+		"payment_key" : 263,
+		"customer_id" : 486,
+		"check_num" : "HS86661",
+		"amount" : 45994.07,
+		"payment_date_key" : 20041123
+	},
+	{
+		"payment_key" : 264,
+		"customer_id" : 486,
+		"check_num" : "JB117768",
+		"amount" : 25833.14,
+		"payment_date_key" : 20030320
+	},
+	{
+		"payment_key" : 265,
+		"customer_id" : 487,
+		"check_num" : "AH612904",
+		"amount" : 29997.09,
+		"payment_date_key" : 20030928
+	},
+	{
+		"payment_key" : 266,
+		"customer_id" : 487,
+		"check_num" : "PT550181",
+		"amount" : 12573.28,
+		"payment_date_key" : 20040229
+	},
+	{
+		"payment_key" : 267,
+		"customer_id" : 489,
+		"check_num" : "OC773849",
+		"amount" : 22275.73,
+		"payment_date_key" : 20031204
+	},
+	{
+		"payment_key" : 268,
+		"customer_id" : 489,
+		"check_num" : "PO860906",
+		"amount" : 7310.42,
+		"payment_date_key" : 20040131
+	},
+	{
+		"payment_key" : 269,
+		"customer_id" : 495,
+		"check_num" : "BH167026",
+		"amount" : 59265.14,
+		"payment_date_key" : 20031226
+	},
+	{
+		"payment_key" : 270,
+		"customer_id" : 495,
+		"check_num" : "FN155234",
+		"amount" : 6276.6,
+		"payment_date_key" : 20040514
+	},
+	{
+		"payment_key" : 271,
+		"customer_id" : 496,
+		"check_num" : "EU531600",
+		"amount" : 30253.75,
+		"payment_date_key" : 20050525
+	},
+	{
+		"payment_key" : 272,
+		"customer_id" : 496,
+		"check_num" : "MB342426",
+		"amount" : 32077.44,
+		"payment_date_key" : 20030716
+	},
+	{
+		"payment_key" : 273,
+		"customer_id" : 496,
+		"check_num" : "MN89921",
+		"amount" : 52166,
+		"payment_date_key" : 20041231
+	}
+]

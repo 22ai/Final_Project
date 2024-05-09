@@ -1,0 +1,2936 @@
+[
+	{
+		"order_key" : 1,
+		"order_id" : 10100,
+		"status" : "Shipped",
+		"customer_id" : 363,
+		"order_date_key" : 20030106,
+		"required_date_key" : 20030113,
+		"shipped_date_key" : 20030110
+	},
+	{
+		"order_key" : 2,
+		"order_id" : 10101,
+		"status" : "Shipped",
+		"customer_id" : 128,
+		"order_date_key" : 20030109,
+		"required_date_key" : 20030118,
+		"shipped_date_key" : 20030111
+	},
+	{
+		"order_key" : 3,
+		"order_id" : 10102,
+		"status" : "Shipped",
+		"customer_id" : 181,
+		"order_date_key" : 20030110,
+		"required_date_key" : 20030118,
+		"shipped_date_key" : 20030114
+	},
+	{
+		"order_key" : 4,
+		"order_id" : 10103,
+		"status" : "Shipped",
+		"customer_id" : 121,
+		"order_date_key" : 20030129,
+		"required_date_key" : 20030207,
+		"shipped_date_key" : 20030202
+	},
+	{
+		"order_key" : 5,
+		"order_id" : 10104,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20030131,
+		"required_date_key" : 20030209,
+		"shipped_date_key" : 20030201
+	},
+	{
+		"order_key" : 6,
+		"order_id" : 10105,
+		"status" : "Shipped",
+		"customer_id" : 145,
+		"order_date_key" : 20030211,
+		"required_date_key" : 20030221,
+		"shipped_date_key" : 20030212
+	},
+	{
+		"order_key" : 7,
+		"order_id" : 10106,
+		"status" : "Shipped",
+		"customer_id" : 278,
+		"order_date_key" : 20030217,
+		"required_date_key" : 20030224,
+		"shipped_date_key" : 20030221
+	},
+	{
+		"order_key" : 8,
+		"order_id" : 10107,
+		"status" : "Shipped",
+		"customer_id" : 131,
+		"order_date_key" : 20030224,
+		"required_date_key" : 20030303,
+		"shipped_date_key" : 20030226
+	},
+	{
+		"order_key" : 9,
+		"order_id" : 10108,
+		"status" : "Shipped",
+		"customer_id" : 385,
+		"order_date_key" : 20030303,
+		"required_date_key" : 20030312,
+		"shipped_date_key" : 20030308
+	},
+	{
+		"order_key" : 10,
+		"order_id" : 10109,
+		"status" : "Shipped",
+		"customer_id" : 486,
+		"order_date_key" : 20030310,
+		"required_date_key" : 20030319,
+		"shipped_date_key" : 20030311
+	},
+	{
+		"order_key" : 11,
+		"order_id" : 10110,
+		"status" : "Shipped",
+		"customer_id" : 187,
+		"order_date_key" : 20030318,
+		"required_date_key" : 20030324,
+		"shipped_date_key" : 20030320
+	},
+	{
+		"order_key" : 12,
+		"order_id" : 10111,
+		"status" : "Shipped",
+		"customer_id" : 129,
+		"order_date_key" : 20030325,
+		"required_date_key" : 20030331,
+		"shipped_date_key" : 20030330
+	},
+	{
+		"order_key" : 13,
+		"order_id" : 10112,
+		"status" : "Shipped",
+		"customer_id" : 144,
+		"order_date_key" : 20030324,
+		"required_date_key" : 20030403,
+		"shipped_date_key" : 20030329
+	},
+	{
+		"order_key" : 14,
+		"order_id" : 10113,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20030326,
+		"required_date_key" : 20030402,
+		"shipped_date_key" : 20030327
+	},
+	{
+		"order_key" : 15,
+		"order_id" : 10114,
+		"status" : "Shipped",
+		"customer_id" : 172,
+		"order_date_key" : 20030401,
+		"required_date_key" : 20030407,
+		"shipped_date_key" : 20030402
+	},
+	{
+		"order_key" : 16,
+		"order_id" : 10115,
+		"status" : "Shipped",
+		"customer_id" : 424,
+		"order_date_key" : 20030404,
+		"required_date_key" : 20030412,
+		"shipped_date_key" : 20030407
+	},
+	{
+		"order_key" : 17,
+		"order_id" : 10116,
+		"status" : "Shipped",
+		"customer_id" : 381,
+		"order_date_key" : 20030411,
+		"required_date_key" : 20030419,
+		"shipped_date_key" : 20030413
+	},
+	{
+		"order_key" : 18,
+		"order_id" : 10117,
+		"status" : "Shipped",
+		"customer_id" : 148,
+		"order_date_key" : 20030416,
+		"required_date_key" : 20030424,
+		"shipped_date_key" : 20030417
+	},
+	{
+		"order_key" : 19,
+		"order_id" : 10118,
+		"status" : "Shipped",
+		"customer_id" : 216,
+		"order_date_key" : 20030421,
+		"required_date_key" : 20030429,
+		"shipped_date_key" : 20030426
+	},
+	{
+		"order_key" : 20,
+		"order_id" : 10119,
+		"status" : "Shipped",
+		"customer_id" : 382,
+		"order_date_key" : 20030428,
+		"required_date_key" : 20030505,
+		"shipped_date_key" : 20030502
+	},
+	{
+		"order_key" : 21,
+		"order_id" : 10120,
+		"status" : "Shipped",
+		"customer_id" : 114,
+		"order_date_key" : 20030429,
+		"required_date_key" : 20030508,
+		"shipped_date_key" : 20030501
+	},
+	{
+		"order_key" : 22,
+		"order_id" : 10121,
+		"status" : "Shipped",
+		"customer_id" : 353,
+		"order_date_key" : 20030507,
+		"required_date_key" : 20030513,
+		"shipped_date_key" : 20030513
+	},
+	{
+		"order_key" : 23,
+		"order_id" : 10122,
+		"status" : "Shipped",
+		"customer_id" : 350,
+		"order_date_key" : 20030508,
+		"required_date_key" : 20030516,
+		"shipped_date_key" : 20030513
+	},
+	{
+		"order_key" : 24,
+		"order_id" : 10123,
+		"status" : "Shipped",
+		"customer_id" : 103,
+		"order_date_key" : 20030520,
+		"required_date_key" : 20030529,
+		"shipped_date_key" : 20030522
+	},
+	{
+		"order_key" : 25,
+		"order_id" : 10124,
+		"status" : "Shipped",
+		"customer_id" : 112,
+		"order_date_key" : 20030521,
+		"required_date_key" : 20030529,
+		"shipped_date_key" : 20030525
+	},
+	{
+		"order_key" : 26,
+		"order_id" : 10125,
+		"status" : "Shipped",
+		"customer_id" : 114,
+		"order_date_key" : 20030521,
+		"required_date_key" : 20030527,
+		"shipped_date_key" : 20030524
+	},
+	{
+		"order_key" : 27,
+		"order_id" : 10126,
+		"status" : "Shipped",
+		"customer_id" : 458,
+		"order_date_key" : 20030528,
+		"required_date_key" : 20030607,
+		"shipped_date_key" : 20030602
+	},
+	{
+		"order_key" : 28,
+		"order_id" : 10127,
+		"status" : "Shipped",
+		"customer_id" : 151,
+		"order_date_key" : 20030603,
+		"required_date_key" : 20030609,
+		"shipped_date_key" : 20030606
+	},
+	{
+		"order_key" : 29,
+		"order_id" : 10128,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20030606,
+		"required_date_key" : 20030612,
+		"shipped_date_key" : 20030611
+	},
+	{
+		"order_key" : 30,
+		"order_id" : 10129,
+		"status" : "Shipped",
+		"customer_id" : 324,
+		"order_date_key" : 20030612,
+		"required_date_key" : 20030618,
+		"shipped_date_key" : 20030614
+	},
+	{
+		"order_key" : 31,
+		"order_id" : 10130,
+		"status" : "Shipped",
+		"customer_id" : 198,
+		"order_date_key" : 20030616,
+		"required_date_key" : 20030624,
+		"shipped_date_key" : 20030621
+	},
+	{
+		"order_key" : 32,
+		"order_id" : 10131,
+		"status" : "Shipped",
+		"customer_id" : 447,
+		"order_date_key" : 20030616,
+		"required_date_key" : 20030625,
+		"shipped_date_key" : 20030621
+	},
+	{
+		"order_key" : 33,
+		"order_id" : 10132,
+		"status" : "Shipped",
+		"customer_id" : 323,
+		"order_date_key" : 20030625,
+		"required_date_key" : 20030701,
+		"shipped_date_key" : 20030628
+	},
+	{
+		"order_key" : 34,
+		"order_id" : 10133,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20030627,
+		"required_date_key" : 20030704,
+		"shipped_date_key" : 20030703
+	},
+	{
+		"order_key" : 35,
+		"order_id" : 10134,
+		"status" : "Shipped",
+		"customer_id" : 250,
+		"order_date_key" : 20030701,
+		"required_date_key" : 20030710,
+		"shipped_date_key" : 20030705
+	},
+	{
+		"order_key" : 36,
+		"order_id" : 10135,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20030702,
+		"required_date_key" : 20030712,
+		"shipped_date_key" : 20030703
+	},
+	{
+		"order_key" : 37,
+		"order_id" : 10136,
+		"status" : "Shipped",
+		"customer_id" : 242,
+		"order_date_key" : 20030704,
+		"required_date_key" : 20030714,
+		"shipped_date_key" : 20030706
+	},
+	{
+		"order_key" : 38,
+		"order_id" : 10137,
+		"status" : "Shipped",
+		"customer_id" : 353,
+		"order_date_key" : 20030710,
+		"required_date_key" : 20030720,
+		"shipped_date_key" : 20030714
+	},
+	{
+		"order_key" : 39,
+		"order_id" : 10138,
+		"status" : "Shipped",
+		"customer_id" : 496,
+		"order_date_key" : 20030707,
+		"required_date_key" : 20030716,
+		"shipped_date_key" : 20030713
+	},
+	{
+		"order_key" : 40,
+		"order_id" : 10139,
+		"status" : "Shipped",
+		"customer_id" : 282,
+		"order_date_key" : 20030716,
+		"required_date_key" : 20030723,
+		"shipped_date_key" : 20030721
+	},
+	{
+		"order_key" : 41,
+		"order_id" : 10140,
+		"status" : "Shipped",
+		"customer_id" : 161,
+		"order_date_key" : 20030724,
+		"required_date_key" : 20030802,
+		"shipped_date_key" : 20030730
+	},
+	{
+		"order_key" : 42,
+		"order_id" : 10141,
+		"status" : "Shipped",
+		"customer_id" : 334,
+		"order_date_key" : 20030801,
+		"required_date_key" : 20030809,
+		"shipped_date_key" : 20030804
+	},
+	{
+		"order_key" : 43,
+		"order_id" : 10142,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20030808,
+		"required_date_key" : 20030816,
+		"shipped_date_key" : 20030813
+	},
+	{
+		"order_key" : 44,
+		"order_id" : 10143,
+		"status" : "Shipped",
+		"customer_id" : 320,
+		"order_date_key" : 20030810,
+		"required_date_key" : 20030818,
+		"shipped_date_key" : 20030812
+	},
+	{
+		"order_key" : 45,
+		"order_id" : 10144,
+		"status" : "Shipped",
+		"customer_id" : 381,
+		"order_date_key" : 20030813,
+		"required_date_key" : 20030821,
+		"shipped_date_key" : 20030814
+	},
+	{
+		"order_key" : 46,
+		"order_id" : 10145,
+		"status" : "Shipped",
+		"customer_id" : 205,
+		"order_date_key" : 20030825,
+		"required_date_key" : 20030902,
+		"shipped_date_key" : 20030831
+	},
+	{
+		"order_key" : 47,
+		"order_id" : 10146,
+		"status" : "Shipped",
+		"customer_id" : 447,
+		"order_date_key" : 20030903,
+		"required_date_key" : 20030913,
+		"shipped_date_key" : 20030906
+	},
+	{
+		"order_key" : 48,
+		"order_id" : 10147,
+		"status" : "Shipped",
+		"customer_id" : 379,
+		"order_date_key" : 20030905,
+		"required_date_key" : 20030912,
+		"shipped_date_key" : 20030909
+	},
+	{
+		"order_key" : 49,
+		"order_id" : 10148,
+		"status" : "Shipped",
+		"customer_id" : 276,
+		"order_date_key" : 20030911,
+		"required_date_key" : 20030921,
+		"shipped_date_key" : 20030915
+	},
+	{
+		"order_key" : 50,
+		"order_id" : 10149,
+		"status" : "Shipped",
+		"customer_id" : 487,
+		"order_date_key" : 20030912,
+		"required_date_key" : 20030918,
+		"shipped_date_key" : 20030917
+	},
+	{
+		"order_key" : 51,
+		"order_id" : 10150,
+		"status" : "Shipped",
+		"customer_id" : 148,
+		"order_date_key" : 20030919,
+		"required_date_key" : 20030927,
+		"shipped_date_key" : 20030921
+	},
+	{
+		"order_key" : 52,
+		"order_id" : 10151,
+		"status" : "Shipped",
+		"customer_id" : 311,
+		"order_date_key" : 20030921,
+		"required_date_key" : 20030930,
+		"shipped_date_key" : 20030924
+	},
+	{
+		"order_key" : 53,
+		"order_id" : 10152,
+		"status" : "Shipped",
+		"customer_id" : 333,
+		"order_date_key" : 20030925,
+		"required_date_key" : 20031003,
+		"shipped_date_key" : 20031001
+	},
+	{
+		"order_key" : 54,
+		"order_id" : 10153,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20030928,
+		"required_date_key" : 20031005,
+		"shipped_date_key" : 20031003
+	},
+	{
+		"order_key" : 55,
+		"order_id" : 10154,
+		"status" : "Shipped",
+		"customer_id" : 219,
+		"order_date_key" : 20031002,
+		"required_date_key" : 20031012,
+		"shipped_date_key" : 20031008
+	},
+	{
+		"order_key" : 56,
+		"order_id" : 10155,
+		"status" : "Shipped",
+		"customer_id" : 186,
+		"order_date_key" : 20031006,
+		"required_date_key" : 20031013,
+		"shipped_date_key" : 20031007
+	},
+	{
+		"order_key" : 57,
+		"order_id" : 10156,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20031008,
+		"required_date_key" : 20031017,
+		"shipped_date_key" : 20031011
+	},
+	{
+		"order_key" : 58,
+		"order_id" : 10157,
+		"status" : "Shipped",
+		"customer_id" : 473,
+		"order_date_key" : 20031009,
+		"required_date_key" : 20031015,
+		"shipped_date_key" : 20031014
+	},
+	{
+		"order_key" : 59,
+		"order_id" : 10158,
+		"status" : "Shipped",
+		"customer_id" : 121,
+		"order_date_key" : 20031010,
+		"required_date_key" : 20031018,
+		"shipped_date_key" : 20031015
+	},
+	{
+		"order_key" : 60,
+		"order_id" : 10159,
+		"status" : "Shipped",
+		"customer_id" : 321,
+		"order_date_key" : 20031010,
+		"required_date_key" : 20031019,
+		"shipped_date_key" : 20031016
+	},
+	{
+		"order_key" : 61,
+		"order_id" : 10160,
+		"status" : "Shipped",
+		"customer_id" : 347,
+		"order_date_key" : 20031011,
+		"required_date_key" : 20031017,
+		"shipped_date_key" : 20031017
+	},
+	{
+		"order_key" : 62,
+		"order_id" : 10161,
+		"status" : "Shipped",
+		"customer_id" : 227,
+		"order_date_key" : 20031017,
+		"required_date_key" : 20031025,
+		"shipped_date_key" : 20031020
+	},
+	{
+		"order_key" : 63,
+		"order_id" : 10162,
+		"status" : "Shipped",
+		"customer_id" : 321,
+		"order_date_key" : 20031018,
+		"required_date_key" : 20031026,
+		"shipped_date_key" : 20031019
+	},
+	{
+		"order_key" : 64,
+		"order_id" : 10163,
+		"status" : "Shipped",
+		"customer_id" : 424,
+		"order_date_key" : 20031020,
+		"required_date_key" : 20031027,
+		"shipped_date_key" : 20031024
+	},
+	{
+		"order_key" : 65,
+		"order_id" : 10164,
+		"status" : "Resolved",
+		"customer_id" : 452,
+		"order_date_key" : 20031021,
+		"required_date_key" : 20031030,
+		"shipped_date_key" : 20031023
+	},
+	{
+		"order_key" : 66,
+		"order_id" : 10165,
+		"status" : "Shipped",
+		"customer_id" : 148,
+		"order_date_key" : 20031022,
+		"required_date_key" : 20031031,
+		"shipped_date_key" : 20031226
+	},
+	{
+		"order_key" : 67,
+		"order_id" : 10166,
+		"status" : "Shipped",
+		"customer_id" : 462,
+		"order_date_key" : 20031021,
+		"required_date_key" : 20031030,
+		"shipped_date_key" : 20031027
+	},
+	{
+		"order_key" : 68,
+		"order_id" : 10167,
+		"status" : "Cancelled",
+		"customer_id" : 448,
+		"order_date_key" : 20031023,
+		"required_date_key" : 20031030,
+		"shipped_date_key" : null
+	},
+	{
+		"order_key" : 69,
+		"order_id" : 10168,
+		"status" : "Shipped",
+		"customer_id" : 161,
+		"order_date_key" : 20031028,
+		"required_date_key" : 20031103,
+		"shipped_date_key" : 20031101
+	},
+	{
+		"order_key" : 70,
+		"order_id" : 10169,
+		"status" : "Shipped",
+		"customer_id" : 276,
+		"order_date_key" : 20031104,
+		"required_date_key" : 20031114,
+		"shipped_date_key" : 20031109
+	},
+	{
+		"order_key" : 71,
+		"order_id" : 10170,
+		"status" : "Shipped",
+		"customer_id" : 452,
+		"order_date_key" : 20031104,
+		"required_date_key" : 20031112,
+		"shipped_date_key" : 20031107
+	},
+	{
+		"order_key" : 72,
+		"order_id" : 10171,
+		"status" : "Shipped",
+		"customer_id" : 233,
+		"order_date_key" : 20031105,
+		"required_date_key" : 20031113,
+		"shipped_date_key" : 20031107
+	},
+	{
+		"order_key" : 73,
+		"order_id" : 10172,
+		"status" : "Shipped",
+		"customer_id" : 175,
+		"order_date_key" : 20031105,
+		"required_date_key" : 20031114,
+		"shipped_date_key" : 20031111
+	},
+	{
+		"order_key" : 74,
+		"order_id" : 10173,
+		"status" : "Shipped",
+		"customer_id" : 278,
+		"order_date_key" : 20031105,
+		"required_date_key" : 20031115,
+		"shipped_date_key" : 20031109
+	},
+	{
+		"order_key" : 75,
+		"order_id" : 10174,
+		"status" : "Shipped",
+		"customer_id" : 333,
+		"order_date_key" : 20031106,
+		"required_date_key" : 20031115,
+		"shipped_date_key" : 20031110
+	},
+	{
+		"order_key" : 76,
+		"order_id" : 10175,
+		"status" : "Shipped",
+		"customer_id" : 324,
+		"order_date_key" : 20031106,
+		"required_date_key" : 20031114,
+		"shipped_date_key" : 20031109
+	},
+	{
+		"order_key" : 77,
+		"order_id" : 10176,
+		"status" : "Shipped",
+		"customer_id" : 386,
+		"order_date_key" : 20031106,
+		"required_date_key" : 20031115,
+		"shipped_date_key" : 20031112
+	},
+	{
+		"order_key" : 78,
+		"order_id" : 10177,
+		"status" : "Shipped",
+		"customer_id" : 344,
+		"order_date_key" : 20031107,
+		"required_date_key" : 20031117,
+		"shipped_date_key" : 20031112
+	},
+	{
+		"order_key" : 79,
+		"order_id" : 10178,
+		"status" : "Shipped",
+		"customer_id" : 242,
+		"order_date_key" : 20031108,
+		"required_date_key" : 20031116,
+		"shipped_date_key" : 20031110
+	},
+	{
+		"order_key" : 80,
+		"order_id" : 10179,
+		"status" : "Cancelled",
+		"customer_id" : 496,
+		"order_date_key" : 20031111,
+		"required_date_key" : 20031117,
+		"shipped_date_key" : 20031113
+	},
+	{
+		"order_key" : 81,
+		"order_id" : 10180,
+		"status" : "Shipped",
+		"customer_id" : 171,
+		"order_date_key" : 20031111,
+		"required_date_key" : 20031119,
+		"shipped_date_key" : 20031114
+	},
+	{
+		"order_key" : 82,
+		"order_id" : 10181,
+		"status" : "Shipped",
+		"customer_id" : 167,
+		"order_date_key" : 20031112,
+		"required_date_key" : 20031119,
+		"shipped_date_key" : 20031115
+	},
+	{
+		"order_key" : 83,
+		"order_id" : 10182,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20031112,
+		"required_date_key" : 20031121,
+		"shipped_date_key" : 20031118
+	},
+	{
+		"order_key" : 84,
+		"order_id" : 10183,
+		"status" : "Shipped",
+		"customer_id" : 339,
+		"order_date_key" : 20031113,
+		"required_date_key" : 20031122,
+		"shipped_date_key" : 20031115
+	},
+	{
+		"order_key" : 85,
+		"order_id" : 10184,
+		"status" : "Shipped",
+		"customer_id" : 484,
+		"order_date_key" : 20031114,
+		"required_date_key" : 20031122,
+		"shipped_date_key" : 20031120
+	},
+	{
+		"order_key" : 86,
+		"order_id" : 10185,
+		"status" : "Shipped",
+		"customer_id" : 320,
+		"order_date_key" : 20031114,
+		"required_date_key" : 20031121,
+		"shipped_date_key" : 20031120
+	},
+	{
+		"order_key" : 87,
+		"order_id" : 10186,
+		"status" : "Shipped",
+		"customer_id" : 489,
+		"order_date_key" : 20031114,
+		"required_date_key" : 20031120,
+		"shipped_date_key" : 20031118
+	},
+	{
+		"order_key" : 88,
+		"order_id" : 10187,
+		"status" : "Shipped",
+		"customer_id" : 211,
+		"order_date_key" : 20031115,
+		"required_date_key" : 20031124,
+		"shipped_date_key" : 20031116
+	},
+	{
+		"order_key" : 89,
+		"order_id" : 10188,
+		"status" : "Shipped",
+		"customer_id" : 167,
+		"order_date_key" : 20031118,
+		"required_date_key" : 20031126,
+		"shipped_date_key" : 20031124
+	},
+	{
+		"order_key" : 90,
+		"order_id" : 10189,
+		"status" : "Shipped",
+		"customer_id" : 205,
+		"order_date_key" : 20031118,
+		"required_date_key" : 20031125,
+		"shipped_date_key" : 20031124
+	},
+	{
+		"order_key" : 91,
+		"order_id" : 10190,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20031119,
+		"required_date_key" : 20031129,
+		"shipped_date_key" : 20031120
+	},
+	{
+		"order_key" : 92,
+		"order_id" : 10191,
+		"status" : "Shipped",
+		"customer_id" : 259,
+		"order_date_key" : 20031120,
+		"required_date_key" : 20031130,
+		"shipped_date_key" : 20031124
+	},
+	{
+		"order_key" : 93,
+		"order_id" : 10192,
+		"status" : "Shipped",
+		"customer_id" : 363,
+		"order_date_key" : 20031120,
+		"required_date_key" : 20031129,
+		"shipped_date_key" : 20031125
+	},
+	{
+		"order_key" : 94,
+		"order_id" : 10193,
+		"status" : "Shipped",
+		"customer_id" : 471,
+		"order_date_key" : 20031121,
+		"required_date_key" : 20031128,
+		"shipped_date_key" : 20031127
+	},
+	{
+		"order_key" : 95,
+		"order_id" : 10194,
+		"status" : "Shipped",
+		"customer_id" : 146,
+		"order_date_key" : 20031125,
+		"required_date_key" : 20031202,
+		"shipped_date_key" : 20031126
+	},
+	{
+		"order_key" : 96,
+		"order_id" : 10195,
+		"status" : "Shipped",
+		"customer_id" : 319,
+		"order_date_key" : 20031125,
+		"required_date_key" : 20031201,
+		"shipped_date_key" : 20031128
+	},
+	{
+		"order_key" : 97,
+		"order_id" : 10196,
+		"status" : "Shipped",
+		"customer_id" : 455,
+		"order_date_key" : 20031126,
+		"required_date_key" : 20031203,
+		"shipped_date_key" : 20031201
+	},
+	{
+		"order_key" : 98,
+		"order_id" : 10197,
+		"status" : "Shipped",
+		"customer_id" : 216,
+		"order_date_key" : 20031126,
+		"required_date_key" : 20031202,
+		"shipped_date_key" : 20031201
+	},
+	{
+		"order_key" : 99,
+		"order_id" : 10198,
+		"status" : "Shipped",
+		"customer_id" : 385,
+		"order_date_key" : 20031127,
+		"required_date_key" : 20031206,
+		"shipped_date_key" : 20031203
+	},
+	{
+		"order_key" : 100,
+		"order_id" : 10199,
+		"status" : "Shipped",
+		"customer_id" : 475,
+		"order_date_key" : 20031201,
+		"required_date_key" : 20031210,
+		"shipped_date_key" : 20031206
+	},
+	{
+		"order_key" : 101,
+		"order_id" : 10200,
+		"status" : "Shipped",
+		"customer_id" : 211,
+		"order_date_key" : 20031201,
+		"required_date_key" : 20031209,
+		"shipped_date_key" : 20031206
+	},
+	{
+		"order_key" : 102,
+		"order_id" : 10201,
+		"status" : "Shipped",
+		"customer_id" : 129,
+		"order_date_key" : 20031201,
+		"required_date_key" : 20031211,
+		"shipped_date_key" : 20031202
+	},
+	{
+		"order_key" : 103,
+		"order_id" : 10202,
+		"status" : "Shipped",
+		"customer_id" : 357,
+		"order_date_key" : 20031202,
+		"required_date_key" : 20031209,
+		"shipped_date_key" : 20031206
+	},
+	{
+		"order_key" : 104,
+		"order_id" : 10203,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20031202,
+		"required_date_key" : 20031211,
+		"shipped_date_key" : 20031207
+	},
+	{
+		"order_key" : 105,
+		"order_id" : 10204,
+		"status" : "Shipped",
+		"customer_id" : 151,
+		"order_date_key" : 20031202,
+		"required_date_key" : 20031210,
+		"shipped_date_key" : 20031204
+	},
+	{
+		"order_key" : 106,
+		"order_id" : 10205,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20031203,
+		"required_date_key" : 20031209,
+		"shipped_date_key" : 20031207
+	},
+	{
+		"order_key" : 107,
+		"order_id" : 10206,
+		"status" : "Shipped",
+		"customer_id" : 202,
+		"order_date_key" : 20031205,
+		"required_date_key" : 20031213,
+		"shipped_date_key" : 20031208
+	},
+	{
+		"order_key" : 108,
+		"order_id" : 10207,
+		"status" : "Shipped",
+		"customer_id" : 495,
+		"order_date_key" : 20031209,
+		"required_date_key" : 20031217,
+		"shipped_date_key" : 20031211
+	},
+	{
+		"order_key" : 109,
+		"order_id" : 10208,
+		"status" : "Shipped",
+		"customer_id" : 146,
+		"order_date_key" : 20040102,
+		"required_date_key" : 20040111,
+		"shipped_date_key" : 20040104
+	},
+	{
+		"order_key" : 110,
+		"order_id" : 10209,
+		"status" : "Shipped",
+		"customer_id" : 347,
+		"order_date_key" : 20040109,
+		"required_date_key" : 20040115,
+		"shipped_date_key" : 20040112
+	},
+	{
+		"order_key" : 111,
+		"order_id" : 10210,
+		"status" : "Shipped",
+		"customer_id" : 177,
+		"order_date_key" : 20040112,
+		"required_date_key" : 20040122,
+		"shipped_date_key" : 20040120
+	},
+	{
+		"order_key" : 112,
+		"order_id" : 10211,
+		"status" : "Shipped",
+		"customer_id" : 406,
+		"order_date_key" : 20040115,
+		"required_date_key" : 20040125,
+		"shipped_date_key" : 20040118
+	},
+	{
+		"order_key" : 113,
+		"order_id" : 10212,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20040116,
+		"required_date_key" : 20040124,
+		"shipped_date_key" : 20040118
+	},
+	{
+		"order_key" : 114,
+		"order_id" : 10213,
+		"status" : "Shipped",
+		"customer_id" : 489,
+		"order_date_key" : 20040122,
+		"required_date_key" : 20040128,
+		"shipped_date_key" : 20040127
+	},
+	{
+		"order_key" : 115,
+		"order_id" : 10214,
+		"status" : "Shipped",
+		"customer_id" : 458,
+		"order_date_key" : 20040126,
+		"required_date_key" : 20040204,
+		"shipped_date_key" : 20040129
+	},
+	{
+		"order_key" : 116,
+		"order_id" : 10215,
+		"status" : "Shipped",
+		"customer_id" : 475,
+		"order_date_key" : 20040129,
+		"required_date_key" : 20040208,
+		"shipped_date_key" : 20040201
+	},
+	{
+		"order_key" : 117,
+		"order_id" : 10216,
+		"status" : "Shipped",
+		"customer_id" : 256,
+		"order_date_key" : 20040202,
+		"required_date_key" : 20040210,
+		"shipped_date_key" : 20040204
+	},
+	{
+		"order_key" : 118,
+		"order_id" : 10217,
+		"status" : "Shipped",
+		"customer_id" : 166,
+		"order_date_key" : 20040204,
+		"required_date_key" : 20040214,
+		"shipped_date_key" : 20040206
+	},
+	{
+		"order_key" : 119,
+		"order_id" : 10218,
+		"status" : "Shipped",
+		"customer_id" : 473,
+		"order_date_key" : 20040209,
+		"required_date_key" : 20040216,
+		"shipped_date_key" : 20040211
+	},
+	{
+		"order_key" : 120,
+		"order_id" : 10219,
+		"status" : "Shipped",
+		"customer_id" : 487,
+		"order_date_key" : 20040210,
+		"required_date_key" : 20040217,
+		"shipped_date_key" : 20040212
+	},
+	{
+		"order_key" : 121,
+		"order_id" : 10220,
+		"status" : "Shipped",
+		"customer_id" : 189,
+		"order_date_key" : 20040212,
+		"required_date_key" : 20040219,
+		"shipped_date_key" : 20040216
+	},
+	{
+		"order_key" : 122,
+		"order_id" : 10221,
+		"status" : "Shipped",
+		"customer_id" : 314,
+		"order_date_key" : 20040218,
+		"required_date_key" : 20040226,
+		"shipped_date_key" : 20040219
+	},
+	{
+		"order_key" : 123,
+		"order_id" : 10222,
+		"status" : "Shipped",
+		"customer_id" : 239,
+		"order_date_key" : 20040219,
+		"required_date_key" : 20040227,
+		"shipped_date_key" : 20040220
+	},
+	{
+		"order_key" : 124,
+		"order_id" : 10223,
+		"status" : "Shipped",
+		"customer_id" : 114,
+		"order_date_key" : 20040220,
+		"required_date_key" : 20040229,
+		"shipped_date_key" : 20040224
+	},
+	{
+		"order_key" : 125,
+		"order_id" : 10224,
+		"status" : "Shipped",
+		"customer_id" : 171,
+		"order_date_key" : 20040221,
+		"required_date_key" : 20040302,
+		"shipped_date_key" : 20040226
+	},
+	{
+		"order_key" : 126,
+		"order_id" : 10225,
+		"status" : "Shipped",
+		"customer_id" : 298,
+		"order_date_key" : 20040222,
+		"required_date_key" : 20040301,
+		"shipped_date_key" : 20040224
+	},
+	{
+		"order_key" : 127,
+		"order_id" : 10226,
+		"status" : "Shipped",
+		"customer_id" : 239,
+		"order_date_key" : 20040226,
+		"required_date_key" : 20040306,
+		"shipped_date_key" : 20040302
+	},
+	{
+		"order_key" : 128,
+		"order_id" : 10227,
+		"status" : "Shipped",
+		"customer_id" : 146,
+		"order_date_key" : 20040302,
+		"required_date_key" : 20040312,
+		"shipped_date_key" : 20040308
+	},
+	{
+		"order_key" : 129,
+		"order_id" : 10228,
+		"status" : "Shipped",
+		"customer_id" : 173,
+		"order_date_key" : 20040310,
+		"required_date_key" : 20040318,
+		"shipped_date_key" : 20040313
+	},
+	{
+		"order_key" : 130,
+		"order_id" : 10229,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20040311,
+		"required_date_key" : 20040320,
+		"shipped_date_key" : 20040312
+	},
+	{
+		"order_key" : 131,
+		"order_id" : 10230,
+		"status" : "Shipped",
+		"customer_id" : 128,
+		"order_date_key" : 20040315,
+		"required_date_key" : 20040324,
+		"shipped_date_key" : 20040320
+	},
+	{
+		"order_key" : 132,
+		"order_id" : 10231,
+		"status" : "Shipped",
+		"customer_id" : 344,
+		"order_date_key" : 20040319,
+		"required_date_key" : 20040326,
+		"shipped_date_key" : 20040325
+	},
+	{
+		"order_key" : 133,
+		"order_id" : 10232,
+		"status" : "Shipped",
+		"customer_id" : 240,
+		"order_date_key" : 20040320,
+		"required_date_key" : 20040330,
+		"shipped_date_key" : 20040325
+	},
+	{
+		"order_key" : 134,
+		"order_id" : 10233,
+		"status" : "Shipped",
+		"customer_id" : 328,
+		"order_date_key" : 20040329,
+		"required_date_key" : 20040404,
+		"shipped_date_key" : 20040402
+	},
+	{
+		"order_key" : 135,
+		"order_id" : 10234,
+		"status" : "Shipped",
+		"customer_id" : 412,
+		"order_date_key" : 20040330,
+		"required_date_key" : 20040405,
+		"shipped_date_key" : 20040402
+	},
+	{
+		"order_key" : 136,
+		"order_id" : 10235,
+		"status" : "Shipped",
+		"customer_id" : 260,
+		"order_date_key" : 20040402,
+		"required_date_key" : 20040412,
+		"shipped_date_key" : 20040406
+	},
+	{
+		"order_key" : 137,
+		"order_id" : 10236,
+		"status" : "Shipped",
+		"customer_id" : 486,
+		"order_date_key" : 20040403,
+		"required_date_key" : 20040411,
+		"shipped_date_key" : 20040408
+	},
+	{
+		"order_key" : 138,
+		"order_id" : 10237,
+		"status" : "Shipped",
+		"customer_id" : 181,
+		"order_date_key" : 20040405,
+		"required_date_key" : 20040412,
+		"shipped_date_key" : 20040410
+	},
+	{
+		"order_key" : 139,
+		"order_id" : 10238,
+		"status" : "Shipped",
+		"customer_id" : 145,
+		"order_date_key" : 20040409,
+		"required_date_key" : 20040416,
+		"shipped_date_key" : 20040410
+	},
+	{
+		"order_key" : 140,
+		"order_id" : 10239,
+		"status" : "Shipped",
+		"customer_id" : 311,
+		"order_date_key" : 20040412,
+		"required_date_key" : 20040421,
+		"shipped_date_key" : 20040417
+	},
+	{
+		"order_key" : 141,
+		"order_id" : 10240,
+		"status" : "Shipped",
+		"customer_id" : 177,
+		"order_date_key" : 20040413,
+		"required_date_key" : 20040420,
+		"shipped_date_key" : 20040420
+	},
+	{
+		"order_key" : 142,
+		"order_id" : 10241,
+		"status" : "Shipped",
+		"customer_id" : 209,
+		"order_date_key" : 20040413,
+		"required_date_key" : 20040420,
+		"shipped_date_key" : 20040419
+	},
+	{
+		"order_key" : 143,
+		"order_id" : 10242,
+		"status" : "Shipped",
+		"customer_id" : 456,
+		"order_date_key" : 20040420,
+		"required_date_key" : 20040428,
+		"shipped_date_key" : 20040425
+	},
+	{
+		"order_key" : 144,
+		"order_id" : 10243,
+		"status" : "Shipped",
+		"customer_id" : 495,
+		"order_date_key" : 20040426,
+		"required_date_key" : 20040503,
+		"shipped_date_key" : 20040428
+	},
+	{
+		"order_key" : 145,
+		"order_id" : 10244,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20040429,
+		"required_date_key" : 20040509,
+		"shipped_date_key" : 20040504
+	},
+	{
+		"order_key" : 146,
+		"order_id" : 10245,
+		"status" : "Shipped",
+		"customer_id" : 455,
+		"order_date_key" : 20040504,
+		"required_date_key" : 20040512,
+		"shipped_date_key" : 20040509
+	},
+	{
+		"order_key" : 147,
+		"order_id" : 10246,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20040505,
+		"required_date_key" : 20040513,
+		"shipped_date_key" : 20040506
+	},
+	{
+		"order_key" : 148,
+		"order_id" : 10247,
+		"status" : "Shipped",
+		"customer_id" : 334,
+		"order_date_key" : 20040505,
+		"required_date_key" : 20040511,
+		"shipped_date_key" : 20040508
+	},
+	{
+		"order_key" : 149,
+		"order_id" : 10248,
+		"status" : "Cancelled",
+		"customer_id" : 131,
+		"order_date_key" : 20040507,
+		"required_date_key" : 20040514,
+		"shipped_date_key" : null
+	},
+	{
+		"order_key" : 150,
+		"order_id" : 10249,
+		"status" : "Shipped",
+		"customer_id" : 173,
+		"order_date_key" : 20040508,
+		"required_date_key" : 20040517,
+		"shipped_date_key" : 20040511
+	},
+	{
+		"order_key" : 151,
+		"order_id" : 10250,
+		"status" : "Shipped",
+		"customer_id" : 450,
+		"order_date_key" : 20040511,
+		"required_date_key" : 20040519,
+		"shipped_date_key" : 20040515
+	},
+	{
+		"order_key" : 152,
+		"order_id" : 10251,
+		"status" : "Shipped",
+		"customer_id" : 328,
+		"order_date_key" : 20040518,
+		"required_date_key" : 20040524,
+		"shipped_date_key" : 20040524
+	},
+	{
+		"order_key" : 153,
+		"order_id" : 10252,
+		"status" : "Shipped",
+		"customer_id" : 406,
+		"order_date_key" : 20040526,
+		"required_date_key" : 20040604,
+		"shipped_date_key" : 20040529
+	},
+	{
+		"order_key" : 154,
+		"order_id" : 10253,
+		"status" : "Cancelled",
+		"customer_id" : 201,
+		"order_date_key" : 20040601,
+		"required_date_key" : 20040609,
+		"shipped_date_key" : 20040602
+	},
+	{
+		"order_key" : 155,
+		"order_id" : 10254,
+		"status" : "Shipped",
+		"customer_id" : 323,
+		"order_date_key" : 20040603,
+		"required_date_key" : 20040613,
+		"shipped_date_key" : 20040604
+	},
+	{
+		"order_key" : 156,
+		"order_id" : 10255,
+		"status" : "Shipped",
+		"customer_id" : 209,
+		"order_date_key" : 20040604,
+		"required_date_key" : 20040612,
+		"shipped_date_key" : 20040609
+	},
+	{
+		"order_key" : 157,
+		"order_id" : 10256,
+		"status" : "Shipped",
+		"customer_id" : 145,
+		"order_date_key" : 20040608,
+		"required_date_key" : 20040616,
+		"shipped_date_key" : 20040610
+	},
+	{
+		"order_key" : 158,
+		"order_id" : 10257,
+		"status" : "Shipped",
+		"customer_id" : 450,
+		"order_date_key" : 20040614,
+		"required_date_key" : 20040624,
+		"shipped_date_key" : 20040615
+	},
+	{
+		"order_key" : 159,
+		"order_id" : 10258,
+		"status" : "Shipped",
+		"customer_id" : 398,
+		"order_date_key" : 20040615,
+		"required_date_key" : 20040625,
+		"shipped_date_key" : 20040623
+	},
+	{
+		"order_key" : 160,
+		"order_id" : 10259,
+		"status" : "Shipped",
+		"customer_id" : 166,
+		"order_date_key" : 20040615,
+		"required_date_key" : 20040622,
+		"shipped_date_key" : 20040617
+	},
+	{
+		"order_key" : 161,
+		"order_id" : 10260,
+		"status" : "Cancelled",
+		"customer_id" : 357,
+		"order_date_key" : 20040616,
+		"required_date_key" : 20040622,
+		"shipped_date_key" : null
+	},
+	{
+		"order_key" : 162,
+		"order_id" : 10261,
+		"status" : "Shipped",
+		"customer_id" : 233,
+		"order_date_key" : 20040617,
+		"required_date_key" : 20040625,
+		"shipped_date_key" : 20040622
+	},
+	{
+		"order_key" : 163,
+		"order_id" : 10262,
+		"status" : "Cancelled",
+		"customer_id" : 141,
+		"order_date_key" : 20040624,
+		"required_date_key" : 20040701,
+		"shipped_date_key" : null
+	},
+	{
+		"order_key" : 164,
+		"order_id" : 10263,
+		"status" : "Shipped",
+		"customer_id" : 175,
+		"order_date_key" : 20040628,
+		"required_date_key" : 20040704,
+		"shipped_date_key" : 20040702
+	},
+	{
+		"order_key" : 165,
+		"order_id" : 10264,
+		"status" : "Shipped",
+		"customer_id" : 362,
+		"order_date_key" : 20040630,
+		"required_date_key" : 20040706,
+		"shipped_date_key" : 20040701
+	},
+	{
+		"order_key" : 166,
+		"order_id" : 10265,
+		"status" : "Shipped",
+		"customer_id" : 471,
+		"order_date_key" : 20040702,
+		"required_date_key" : 20040709,
+		"shipped_date_key" : 20040707
+	},
+	{
+		"order_key" : 167,
+		"order_id" : 10266,
+		"status" : "Shipped",
+		"customer_id" : 386,
+		"order_date_key" : 20040706,
+		"required_date_key" : 20040714,
+		"shipped_date_key" : 20040710
+	},
+	{
+		"order_key" : 168,
+		"order_id" : 10267,
+		"status" : "Shipped",
+		"customer_id" : 151,
+		"order_date_key" : 20040707,
+		"required_date_key" : 20040717,
+		"shipped_date_key" : 20040709
+	},
+	{
+		"order_key" : 169,
+		"order_id" : 10268,
+		"status" : "Shipped",
+		"customer_id" : 412,
+		"order_date_key" : 20040712,
+		"required_date_key" : 20040718,
+		"shipped_date_key" : 20040714
+	},
+	{
+		"order_key" : 170,
+		"order_id" : 10269,
+		"status" : "Shipped",
+		"customer_id" : 382,
+		"order_date_key" : 20040716,
+		"required_date_key" : 20040722,
+		"shipped_date_key" : 20040718
+	},
+	{
+		"order_key" : 171,
+		"order_id" : 10270,
+		"status" : "Shipped",
+		"customer_id" : 282,
+		"order_date_key" : 20040719,
+		"required_date_key" : 20040727,
+		"shipped_date_key" : 20040724
+	},
+	{
+		"order_key" : 172,
+		"order_id" : 10271,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20040720,
+		"required_date_key" : 20040729,
+		"shipped_date_key" : 20040723
+	},
+	{
+		"order_key" : 173,
+		"order_id" : 10272,
+		"status" : "Shipped",
+		"customer_id" : 157,
+		"order_date_key" : 20040720,
+		"required_date_key" : 20040726,
+		"shipped_date_key" : 20040722
+	},
+	{
+		"order_key" : 174,
+		"order_id" : 10273,
+		"status" : "Shipped",
+		"customer_id" : 314,
+		"order_date_key" : 20040721,
+		"required_date_key" : 20040728,
+		"shipped_date_key" : 20040722
+	},
+	{
+		"order_key" : 175,
+		"order_id" : 10274,
+		"status" : "Shipped",
+		"customer_id" : 379,
+		"order_date_key" : 20040721,
+		"required_date_key" : 20040729,
+		"shipped_date_key" : 20040722
+	},
+	{
+		"order_key" : 176,
+		"order_id" : 10275,
+		"status" : "Shipped",
+		"customer_id" : 119,
+		"order_date_key" : 20040723,
+		"required_date_key" : 20040802,
+		"shipped_date_key" : 20040729
+	},
+	{
+		"order_key" : 177,
+		"order_id" : 10276,
+		"status" : "Shipped",
+		"customer_id" : 204,
+		"order_date_key" : 20040802,
+		"required_date_key" : 20040811,
+		"shipped_date_key" : 20040808
+	},
+	{
+		"order_key" : 178,
+		"order_id" : 10277,
+		"status" : "Shipped",
+		"customer_id" : 148,
+		"order_date_key" : 20040804,
+		"required_date_key" : 20040812,
+		"shipped_date_key" : 20040805
+	},
+	{
+		"order_key" : 179,
+		"order_id" : 10278,
+		"status" : "Shipped",
+		"customer_id" : 112,
+		"order_date_key" : 20040806,
+		"required_date_key" : 20040816,
+		"shipped_date_key" : 20040809
+	},
+	{
+		"order_key" : 180,
+		"order_id" : 10279,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20040809,
+		"required_date_key" : 20040819,
+		"shipped_date_key" : 20040815
+	},
+	{
+		"order_key" : 181,
+		"order_id" : 10280,
+		"status" : "Shipped",
+		"customer_id" : 249,
+		"order_date_key" : 20040817,
+		"required_date_key" : 20040827,
+		"shipped_date_key" : 20040819
+	},
+	{
+		"order_key" : 182,
+		"order_id" : 10281,
+		"status" : "Shipped",
+		"customer_id" : 157,
+		"order_date_key" : 20040819,
+		"required_date_key" : 20040828,
+		"shipped_date_key" : 20040823
+	},
+	{
+		"order_key" : 183,
+		"order_id" : 10282,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20040820,
+		"required_date_key" : 20040826,
+		"shipped_date_key" : 20040822
+	},
+	{
+		"order_key" : 184,
+		"order_id" : 10283,
+		"status" : "Shipped",
+		"customer_id" : 260,
+		"order_date_key" : 20040820,
+		"required_date_key" : 20040830,
+		"shipped_date_key" : 20040823
+	},
+	{
+		"order_key" : 185,
+		"order_id" : 10284,
+		"status" : "Shipped",
+		"customer_id" : 299,
+		"order_date_key" : 20040821,
+		"required_date_key" : 20040829,
+		"shipped_date_key" : 20040826
+	},
+	{
+		"order_key" : 186,
+		"order_id" : 10285,
+		"status" : "Shipped",
+		"customer_id" : 286,
+		"order_date_key" : 20040827,
+		"required_date_key" : 20040904,
+		"shipped_date_key" : 20040831
+	},
+	{
+		"order_key" : 187,
+		"order_id" : 10286,
+		"status" : "Shipped",
+		"customer_id" : 172,
+		"order_date_key" : 20040828,
+		"required_date_key" : 20040906,
+		"shipped_date_key" : 20040901
+	},
+	{
+		"order_key" : 188,
+		"order_id" : 10287,
+		"status" : "Shipped",
+		"customer_id" : 298,
+		"order_date_key" : 20040830,
+		"required_date_key" : 20040906,
+		"shipped_date_key" : 20040901
+	},
+	{
+		"order_key" : 189,
+		"order_id" : 10288,
+		"status" : "Shipped",
+		"customer_id" : 166,
+		"order_date_key" : 20040901,
+		"required_date_key" : 20040911,
+		"shipped_date_key" : 20040905
+	},
+	{
+		"order_key" : 190,
+		"order_id" : 10289,
+		"status" : "Shipped",
+		"customer_id" : 167,
+		"order_date_key" : 20040903,
+		"required_date_key" : 20040913,
+		"shipped_date_key" : 20040904
+	},
+	{
+		"order_key" : 191,
+		"order_id" : 10290,
+		"status" : "Shipped",
+		"customer_id" : 198,
+		"order_date_key" : 20040907,
+		"required_date_key" : 20040915,
+		"shipped_date_key" : 20040913
+	},
+	{
+		"order_key" : 192,
+		"order_id" : 10291,
+		"status" : "Shipped",
+		"customer_id" : 448,
+		"order_date_key" : 20040908,
+		"required_date_key" : 20040917,
+		"shipped_date_key" : 20040914
+	},
+	{
+		"order_key" : 193,
+		"order_id" : 10292,
+		"status" : "Shipped",
+		"customer_id" : 131,
+		"order_date_key" : 20040908,
+		"required_date_key" : 20040918,
+		"shipped_date_key" : 20040911
+	},
+	{
+		"order_key" : 194,
+		"order_id" : 10293,
+		"status" : "Shipped",
+		"customer_id" : 249,
+		"order_date_key" : 20040909,
+		"required_date_key" : 20040918,
+		"shipped_date_key" : 20040914
+	},
+	{
+		"order_key" : 195,
+		"order_id" : 10294,
+		"status" : "Shipped",
+		"customer_id" : 204,
+		"order_date_key" : 20040910,
+		"required_date_key" : 20040917,
+		"shipped_date_key" : 20040914
+	},
+	{
+		"order_key" : 196,
+		"order_id" : 10295,
+		"status" : "Shipped",
+		"customer_id" : 362,
+		"order_date_key" : 20040910,
+		"required_date_key" : 20040917,
+		"shipped_date_key" : 20040914
+	},
+	{
+		"order_key" : 197,
+		"order_id" : 10296,
+		"status" : "Shipped",
+		"customer_id" : 415,
+		"order_date_key" : 20040915,
+		"required_date_key" : 20040922,
+		"shipped_date_key" : 20040916
+	},
+	{
+		"order_key" : 198,
+		"order_id" : 10297,
+		"status" : "Shipped",
+		"customer_id" : 189,
+		"order_date_key" : 20040916,
+		"required_date_key" : 20040922,
+		"shipped_date_key" : 20040921
+	},
+	{
+		"order_key" : 199,
+		"order_id" : 10298,
+		"status" : "Shipped",
+		"customer_id" : 103,
+		"order_date_key" : 20040927,
+		"required_date_key" : 20041005,
+		"shipped_date_key" : 20041001
+	},
+	{
+		"order_key" : 200,
+		"order_id" : 10299,
+		"status" : "Shipped",
+		"customer_id" : 186,
+		"order_date_key" : 20040930,
+		"required_date_key" : 20041010,
+		"shipped_date_key" : 20041001
+	},
+	{
+		"order_key" : 201,
+		"order_id" : 10300,
+		"status" : "Shipped",
+		"customer_id" : 128,
+		"order_date_key" : 20031004,
+		"required_date_key" : 20031013,
+		"shipped_date_key" : 20031009
+	},
+	{
+		"order_key" : 202,
+		"order_id" : 10301,
+		"status" : "Shipped",
+		"customer_id" : 299,
+		"order_date_key" : 20031005,
+		"required_date_key" : 20031015,
+		"shipped_date_key" : 20031008
+	},
+	{
+		"order_key" : 203,
+		"order_id" : 10302,
+		"status" : "Shipped",
+		"customer_id" : 201,
+		"order_date_key" : 20031006,
+		"required_date_key" : 20031016,
+		"shipped_date_key" : 20031007
+	},
+	{
+		"order_key" : 204,
+		"order_id" : 10303,
+		"status" : "Shipped",
+		"customer_id" : 484,
+		"order_date_key" : 20041006,
+		"required_date_key" : 20041014,
+		"shipped_date_key" : 20041009
+	},
+	{
+		"order_key" : 205,
+		"order_id" : 10304,
+		"status" : "Shipped",
+		"customer_id" : 256,
+		"order_date_key" : 20041011,
+		"required_date_key" : 20041020,
+		"shipped_date_key" : 20041017
+	},
+	{
+		"order_key" : 206,
+		"order_id" : 10305,
+		"status" : "Shipped",
+		"customer_id" : 286,
+		"order_date_key" : 20041013,
+		"required_date_key" : 20041022,
+		"shipped_date_key" : 20041015
+	},
+	{
+		"order_key" : 207,
+		"order_id" : 10306,
+		"status" : "Shipped",
+		"customer_id" : 187,
+		"order_date_key" : 20041014,
+		"required_date_key" : 20041021,
+		"shipped_date_key" : 20041017
+	},
+	{
+		"order_key" : 208,
+		"order_id" : 10307,
+		"status" : "Shipped",
+		"customer_id" : 339,
+		"order_date_key" : 20041014,
+		"required_date_key" : 20041023,
+		"shipped_date_key" : 20041020
+	},
+	{
+		"order_key" : 209,
+		"order_id" : 10308,
+		"status" : "Shipped",
+		"customer_id" : 319,
+		"order_date_key" : 20041015,
+		"required_date_key" : 20041024,
+		"shipped_date_key" : 20041020
+	},
+	{
+		"order_key" : 210,
+		"order_id" : 10309,
+		"status" : "Shipped",
+		"customer_id" : 121,
+		"order_date_key" : 20041015,
+		"required_date_key" : 20041024,
+		"shipped_date_key" : 20041018
+	},
+	{
+		"order_key" : 211,
+		"order_id" : 10310,
+		"status" : "Shipped",
+		"customer_id" : 259,
+		"order_date_key" : 20041016,
+		"required_date_key" : 20041024,
+		"shipped_date_key" : 20041018
+	},
+	{
+		"order_key" : 212,
+		"order_id" : 10311,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20041016,
+		"required_date_key" : 20041023,
+		"shipped_date_key" : 20041020
+	},
+	{
+		"order_key" : 213,
+		"order_id" : 10312,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20041021,
+		"required_date_key" : 20041027,
+		"shipped_date_key" : 20041023
+	},
+	{
+		"order_key" : 214,
+		"order_id" : 10313,
+		"status" : "Shipped",
+		"customer_id" : 202,
+		"order_date_key" : 20041022,
+		"required_date_key" : 20041028,
+		"shipped_date_key" : 20041025
+	},
+	{
+		"order_key" : 215,
+		"order_id" : 10314,
+		"status" : "Shipped",
+		"customer_id" : 227,
+		"order_date_key" : 20041022,
+		"required_date_key" : 20041101,
+		"shipped_date_key" : 20041023
+	},
+	{
+		"order_key" : 216,
+		"order_id" : 10315,
+		"status" : "Shipped",
+		"customer_id" : 119,
+		"order_date_key" : 20041029,
+		"required_date_key" : 20041108,
+		"shipped_date_key" : 20041030
+	},
+	{
+		"order_key" : 217,
+		"order_id" : 10316,
+		"status" : "Shipped",
+		"customer_id" : 240,
+		"order_date_key" : 20041101,
+		"required_date_key" : 20041109,
+		"shipped_date_key" : 20041107
+	},
+	{
+		"order_key" : 218,
+		"order_id" : 10317,
+		"status" : "Shipped",
+		"customer_id" : 161,
+		"order_date_key" : 20041102,
+		"required_date_key" : 20041112,
+		"shipped_date_key" : 20041108
+	},
+	{
+		"order_key" : 219,
+		"order_id" : 10318,
+		"status" : "Shipped",
+		"customer_id" : 157,
+		"order_date_key" : 20041102,
+		"required_date_key" : 20041109,
+		"shipped_date_key" : 20041107
+	},
+	{
+		"order_key" : 220,
+		"order_id" : 10319,
+		"status" : "Shipped",
+		"customer_id" : 456,
+		"order_date_key" : 20041103,
+		"required_date_key" : 20041111,
+		"shipped_date_key" : 20041106
+	},
+	{
+		"order_key" : 221,
+		"order_id" : 10320,
+		"status" : "Shipped",
+		"customer_id" : 144,
+		"order_date_key" : 20041103,
+		"required_date_key" : 20041113,
+		"shipped_date_key" : 20041107
+	},
+	{
+		"order_key" : 222,
+		"order_id" : 10321,
+		"status" : "Shipped",
+		"customer_id" : 462,
+		"order_date_key" : 20041104,
+		"required_date_key" : 20041112,
+		"shipped_date_key" : 20041107
+	},
+	{
+		"order_key" : 223,
+		"order_id" : 10322,
+		"status" : "Shipped",
+		"customer_id" : 363,
+		"order_date_key" : 20041104,
+		"required_date_key" : 20041112,
+		"shipped_date_key" : 20041110
+	},
+	{
+		"order_key" : 224,
+		"order_id" : 10323,
+		"status" : "Shipped",
+		"customer_id" : 128,
+		"order_date_key" : 20041105,
+		"required_date_key" : 20041112,
+		"shipped_date_key" : 20041109
+	},
+	{
+		"order_key" : 225,
+		"order_id" : 10324,
+		"status" : "Shipped",
+		"customer_id" : 181,
+		"order_date_key" : 20041105,
+		"required_date_key" : 20041111,
+		"shipped_date_key" : 20041108
+	},
+	{
+		"order_key" : 226,
+		"order_id" : 10325,
+		"status" : "Shipped",
+		"customer_id" : 121,
+		"order_date_key" : 20041105,
+		"required_date_key" : 20041113,
+		"shipped_date_key" : 20041108
+	},
+	{
+		"order_key" : 227,
+		"order_id" : 10326,
+		"status" : "Shipped",
+		"customer_id" : 144,
+		"order_date_key" : 20041109,
+		"required_date_key" : 20041116,
+		"shipped_date_key" : 20041110
+	},
+	{
+		"order_key" : 228,
+		"order_id" : 10327,
+		"status" : "Resolved",
+		"customer_id" : 145,
+		"order_date_key" : 20041110,
+		"required_date_key" : 20041119,
+		"shipped_date_key" : 20041113
+	},
+	{
+		"order_key" : 229,
+		"order_id" : 10328,
+		"status" : "Shipped",
+		"customer_id" : 278,
+		"order_date_key" : 20041112,
+		"required_date_key" : 20041121,
+		"shipped_date_key" : 20041118
+	},
+	{
+		"order_key" : 230,
+		"order_id" : 10329,
+		"status" : "Shipped",
+		"customer_id" : 131,
+		"order_date_key" : 20041115,
+		"required_date_key" : 20041124,
+		"shipped_date_key" : 20041116
+	},
+	{
+		"order_key" : 231,
+		"order_id" : 10330,
+		"status" : "Shipped",
+		"customer_id" : 385,
+		"order_date_key" : 20041116,
+		"required_date_key" : 20041125,
+		"shipped_date_key" : 20041121
+	},
+	{
+		"order_key" : 232,
+		"order_id" : 10331,
+		"status" : "Shipped",
+		"customer_id" : 486,
+		"order_date_key" : 20041117,
+		"required_date_key" : 20041123,
+		"shipped_date_key" : 20041123
+	},
+	{
+		"order_key" : 233,
+		"order_id" : 10332,
+		"status" : "Shipped",
+		"customer_id" : 187,
+		"order_date_key" : 20041117,
+		"required_date_key" : 20041125,
+		"shipped_date_key" : 20041118
+	},
+	{
+		"order_key" : 234,
+		"order_id" : 10333,
+		"status" : "Shipped",
+		"customer_id" : 129,
+		"order_date_key" : 20041118,
+		"required_date_key" : 20041127,
+		"shipped_date_key" : 20041120
+	},
+	{
+		"order_key" : 235,
+		"order_id" : 10334,
+		"status" : "On Hold",
+		"customer_id" : 144,
+		"order_date_key" : 20041119,
+		"required_date_key" : 20041128,
+		"shipped_date_key" : null
+	},
+	{
+		"order_key" : 236,
+		"order_id" : 10335,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20041119,
+		"required_date_key" : 20041129,
+		"shipped_date_key" : 20041123
+	},
+	{
+		"order_key" : 237,
+		"order_id" : 10336,
+		"status" : "Shipped",
+		"customer_id" : 172,
+		"order_date_key" : 20041120,
+		"required_date_key" : 20041126,
+		"shipped_date_key" : 20041124
+	},
+	{
+		"order_key" : 238,
+		"order_id" : 10337,
+		"status" : "Shipped",
+		"customer_id" : 424,
+		"order_date_key" : 20041121,
+		"required_date_key" : 20041130,
+		"shipped_date_key" : 20041126
+	},
+	{
+		"order_key" : 239,
+		"order_id" : 10338,
+		"status" : "Shipped",
+		"customer_id" : 381,
+		"order_date_key" : 20041122,
+		"required_date_key" : 20041202,
+		"shipped_date_key" : 20041127
+	},
+	{
+		"order_key" : 240,
+		"order_id" : 10339,
+		"status" : "Shipped",
+		"customer_id" : 398,
+		"order_date_key" : 20041123,
+		"required_date_key" : 20041130,
+		"shipped_date_key" : 20041130
+	},
+	{
+		"order_key" : 241,
+		"order_id" : 10340,
+		"status" : "Shipped",
+		"customer_id" : 216,
+		"order_date_key" : 20041124,
+		"required_date_key" : 20041201,
+		"shipped_date_key" : 20041125
+	},
+	{
+		"order_key" : 242,
+		"order_id" : 10341,
+		"status" : "Shipped",
+		"customer_id" : 382,
+		"order_date_key" : 20041124,
+		"required_date_key" : 20041201,
+		"shipped_date_key" : 20041129
+	},
+	{
+		"order_key" : 243,
+		"order_id" : 10342,
+		"status" : "Shipped",
+		"customer_id" : 114,
+		"order_date_key" : 20041124,
+		"required_date_key" : 20041201,
+		"shipped_date_key" : 20041129
+	},
+	{
+		"order_key" : 244,
+		"order_id" : 10343,
+		"status" : "Shipped",
+		"customer_id" : 353,
+		"order_date_key" : 20041124,
+		"required_date_key" : 20041201,
+		"shipped_date_key" : 20041126
+	},
+	{
+		"order_key" : 245,
+		"order_id" : 10344,
+		"status" : "Shipped",
+		"customer_id" : 350,
+		"order_date_key" : 20041125,
+		"required_date_key" : 20041202,
+		"shipped_date_key" : 20041129
+	},
+	{
+		"order_key" : 246,
+		"order_id" : 10345,
+		"status" : "Shipped",
+		"customer_id" : 103,
+		"order_date_key" : 20041125,
+		"required_date_key" : 20041201,
+		"shipped_date_key" : 20041126
+	},
+	{
+		"order_key" : 247,
+		"order_id" : 10346,
+		"status" : "Shipped",
+		"customer_id" : 112,
+		"order_date_key" : 20041129,
+		"required_date_key" : 20041205,
+		"shipped_date_key" : 20041130
+	},
+	{
+		"order_key" : 248,
+		"order_id" : 10347,
+		"status" : "Shipped",
+		"customer_id" : 114,
+		"order_date_key" : 20041129,
+		"required_date_key" : 20041207,
+		"shipped_date_key" : 20041130
+	},
+	{
+		"order_key" : 249,
+		"order_id" : 10348,
+		"status" : "Shipped",
+		"customer_id" : 458,
+		"order_date_key" : 20041101,
+		"required_date_key" : 20041108,
+		"shipped_date_key" : 20041105
+	},
+	{
+		"order_key" : 250,
+		"order_id" : 10349,
+		"status" : "Shipped",
+		"customer_id" : 151,
+		"order_date_key" : 20041201,
+		"required_date_key" : 20041207,
+		"shipped_date_key" : 20041203
+	},
+	{
+		"order_key" : 251,
+		"order_id" : 10350,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20041202,
+		"required_date_key" : 20041208,
+		"shipped_date_key" : 20041205
+	},
+	{
+		"order_key" : 252,
+		"order_id" : 10351,
+		"status" : "Shipped",
+		"customer_id" : 324,
+		"order_date_key" : 20041203,
+		"required_date_key" : 20041211,
+		"shipped_date_key" : 20041207
+	},
+	{
+		"order_key" : 253,
+		"order_id" : 10352,
+		"status" : "Shipped",
+		"customer_id" : 198,
+		"order_date_key" : 20041203,
+		"required_date_key" : 20041212,
+		"shipped_date_key" : 20041209
+	},
+	{
+		"order_key" : 254,
+		"order_id" : 10353,
+		"status" : "Shipped",
+		"customer_id" : 447,
+		"order_date_key" : 20041204,
+		"required_date_key" : 20041211,
+		"shipped_date_key" : 20041205
+	},
+	{
+		"order_key" : 255,
+		"order_id" : 10354,
+		"status" : "Shipped",
+		"customer_id" : 323,
+		"order_date_key" : 20041204,
+		"required_date_key" : 20041210,
+		"shipped_date_key" : 20041205
+	},
+	{
+		"order_key" : 256,
+		"order_id" : 10355,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20041207,
+		"required_date_key" : 20041214,
+		"shipped_date_key" : 20041213
+	},
+	{
+		"order_key" : 257,
+		"order_id" : 10356,
+		"status" : "Shipped",
+		"customer_id" : 250,
+		"order_date_key" : 20041209,
+		"required_date_key" : 20041215,
+		"shipped_date_key" : 20041212
+	},
+	{
+		"order_key" : 258,
+		"order_id" : 10357,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20041210,
+		"required_date_key" : 20041216,
+		"shipped_date_key" : 20041214
+	},
+	{
+		"order_key" : 259,
+		"order_id" : 10358,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20041210,
+		"required_date_key" : 20041216,
+		"shipped_date_key" : 20041216
+	},
+	{
+		"order_key" : 260,
+		"order_id" : 10359,
+		"status" : "Shipped",
+		"customer_id" : 353,
+		"order_date_key" : 20041215,
+		"required_date_key" : 20041223,
+		"shipped_date_key" : 20041218
+	},
+	{
+		"order_key" : 261,
+		"order_id" : 10360,
+		"status" : "Shipped",
+		"customer_id" : 496,
+		"order_date_key" : 20041216,
+		"required_date_key" : 20041222,
+		"shipped_date_key" : 20041218
+	},
+	{
+		"order_key" : 262,
+		"order_id" : 10361,
+		"status" : "Shipped",
+		"customer_id" : 282,
+		"order_date_key" : 20041217,
+		"required_date_key" : 20041224,
+		"shipped_date_key" : 20041220
+	},
+	{
+		"order_key" : 263,
+		"order_id" : 10362,
+		"status" : "Shipped",
+		"customer_id" : 161,
+		"order_date_key" : 20050105,
+		"required_date_key" : 20050116,
+		"shipped_date_key" : 20050110
+	},
+	{
+		"order_key" : 264,
+		"order_id" : 10363,
+		"status" : "Shipped",
+		"customer_id" : 334,
+		"order_date_key" : 20050106,
+		"required_date_key" : 20050112,
+		"shipped_date_key" : 20050110
+	},
+	{
+		"order_key" : 265,
+		"order_id" : 10364,
+		"status" : "Shipped",
+		"customer_id" : 350,
+		"order_date_key" : 20050106,
+		"required_date_key" : 20050117,
+		"shipped_date_key" : 20050109
+	},
+	{
+		"order_key" : 266,
+		"order_id" : 10365,
+		"status" : "Shipped",
+		"customer_id" : 320,
+		"order_date_key" : 20050107,
+		"required_date_key" : 20050118,
+		"shipped_date_key" : 20050111
+	},
+	{
+		"order_key" : 267,
+		"order_id" : 10366,
+		"status" : "Shipped",
+		"customer_id" : 381,
+		"order_date_key" : 20050110,
+		"required_date_key" : 20050119,
+		"shipped_date_key" : 20050112
+	},
+	{
+		"order_key" : 268,
+		"order_id" : 10367,
+		"status" : "Resolved",
+		"customer_id" : 205,
+		"order_date_key" : 20050112,
+		"required_date_key" : 20050121,
+		"shipped_date_key" : 20050116
+	},
+	{
+		"order_key" : 269,
+		"order_id" : 10368,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20050119,
+		"required_date_key" : 20050127,
+		"shipped_date_key" : 20050124
+	},
+	{
+		"order_key" : 270,
+		"order_id" : 10369,
+		"status" : "Shipped",
+		"customer_id" : 379,
+		"order_date_key" : 20050120,
+		"required_date_key" : 20050128,
+		"shipped_date_key" : 20050124
+	},
+	{
+		"order_key" : 271,
+		"order_id" : 10370,
+		"status" : "Shipped",
+		"customer_id" : 276,
+		"order_date_key" : 20050120,
+		"required_date_key" : 20050201,
+		"shipped_date_key" : 20050125
+	},
+	{
+		"order_key" : 272,
+		"order_id" : 10371,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20050123,
+		"required_date_key" : 20050203,
+		"shipped_date_key" : 20050125
+	},
+	{
+		"order_key" : 273,
+		"order_id" : 10372,
+		"status" : "Shipped",
+		"customer_id" : 398,
+		"order_date_key" : 20050126,
+		"required_date_key" : 20050205,
+		"shipped_date_key" : 20050128
+	},
+	{
+		"order_key" : 274,
+		"order_id" : 10373,
+		"status" : "Shipped",
+		"customer_id" : 311,
+		"order_date_key" : 20050131,
+		"required_date_key" : 20050208,
+		"shipped_date_key" : 20050206
+	},
+	{
+		"order_key" : 275,
+		"order_id" : 10374,
+		"status" : "Shipped",
+		"customer_id" : 333,
+		"order_date_key" : 20050202,
+		"required_date_key" : 20050209,
+		"shipped_date_key" : 20050203
+	},
+	{
+		"order_key" : 276,
+		"order_id" : 10375,
+		"status" : "Shipped",
+		"customer_id" : 119,
+		"order_date_key" : 20050203,
+		"required_date_key" : 20050210,
+		"shipped_date_key" : 20050206
+	},
+	{
+		"order_key" : 277,
+		"order_id" : 10376,
+		"status" : "Shipped",
+		"customer_id" : 219,
+		"order_date_key" : 20050208,
+		"required_date_key" : 20050218,
+		"shipped_date_key" : 20050213
+	},
+	{
+		"order_key" : 278,
+		"order_id" : 10377,
+		"status" : "Shipped",
+		"customer_id" : 186,
+		"order_date_key" : 20050209,
+		"required_date_key" : 20050221,
+		"shipped_date_key" : 20050212
+	},
+	{
+		"order_key" : 279,
+		"order_id" : 10378,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20050210,
+		"required_date_key" : 20050218,
+		"shipped_date_key" : 20050211
+	},
+	{
+		"order_key" : 280,
+		"order_id" : 10379,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20050210,
+		"required_date_key" : 20050218,
+		"shipped_date_key" : 20050211
+	},
+	{
+		"order_key" : 281,
+		"order_id" : 10380,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20050216,
+		"required_date_key" : 20050224,
+		"shipped_date_key" : 20050218
+	},
+	{
+		"order_key" : 282,
+		"order_id" : 10381,
+		"status" : "Shipped",
+		"customer_id" : 321,
+		"order_date_key" : 20050217,
+		"required_date_key" : 20050225,
+		"shipped_date_key" : 20050218
+	},
+	{
+		"order_key" : 283,
+		"order_id" : 10382,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20050217,
+		"required_date_key" : 20050223,
+		"shipped_date_key" : 20050218
+	},
+	{
+		"order_key" : 284,
+		"order_id" : 10383,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20050222,
+		"required_date_key" : 20050302,
+		"shipped_date_key" : 20050225
+	},
+	{
+		"order_key" : 285,
+		"order_id" : 10384,
+		"status" : "Shipped",
+		"customer_id" : 321,
+		"order_date_key" : 20050223,
+		"required_date_key" : 20050306,
+		"shipped_date_key" : 20050227
+	},
+	{
+		"order_key" : 286,
+		"order_id" : 10385,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20050228,
+		"required_date_key" : 20050309,
+		"shipped_date_key" : 20050301
+	},
+	{
+		"order_key" : 287,
+		"order_id" : 10386,
+		"status" : "Resolved",
+		"customer_id" : 141,
+		"order_date_key" : 20050301,
+		"required_date_key" : 20050309,
+		"shipped_date_key" : 20050306
+	},
+	{
+		"order_key" : 288,
+		"order_id" : 10387,
+		"status" : "Shipped",
+		"customer_id" : 148,
+		"order_date_key" : 20050302,
+		"required_date_key" : 20050309,
+		"shipped_date_key" : 20050306
+	},
+	{
+		"order_key" : 289,
+		"order_id" : 10388,
+		"status" : "Shipped",
+		"customer_id" : 462,
+		"order_date_key" : 20050303,
+		"required_date_key" : 20050311,
+		"shipped_date_key" : 20050309
+	},
+	{
+		"order_key" : 290,
+		"order_id" : 10389,
+		"status" : "Shipped",
+		"customer_id" : 448,
+		"order_date_key" : 20050303,
+		"required_date_key" : 20050309,
+		"shipped_date_key" : 20050308
+	},
+	{
+		"order_key" : 291,
+		"order_id" : 10390,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20050304,
+		"required_date_key" : 20050311,
+		"shipped_date_key" : 20050307
+	},
+	{
+		"order_key" : 292,
+		"order_id" : 10391,
+		"status" : "Shipped",
+		"customer_id" : 276,
+		"order_date_key" : 20050309,
+		"required_date_key" : 20050320,
+		"shipped_date_key" : 20050315
+	},
+	{
+		"order_key" : 293,
+		"order_id" : 10392,
+		"status" : "Shipped",
+		"customer_id" : 452,
+		"order_date_key" : 20050310,
+		"required_date_key" : 20050318,
+		"shipped_date_key" : 20050312
+	},
+	{
+		"order_key" : 294,
+		"order_id" : 10393,
+		"status" : "Shipped",
+		"customer_id" : 323,
+		"order_date_key" : 20050311,
+		"required_date_key" : 20050322,
+		"shipped_date_key" : 20050314
+	},
+	{
+		"order_key" : 295,
+		"order_id" : 10394,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20050315,
+		"required_date_key" : 20050325,
+		"shipped_date_key" : 20050319
+	},
+	{
+		"order_key" : 296,
+		"order_id" : 10395,
+		"status" : "Shipped",
+		"customer_id" : 250,
+		"order_date_key" : 20050317,
+		"required_date_key" : 20050324,
+		"shipped_date_key" : 20050323
+	},
+	{
+		"order_key" : 297,
+		"order_id" : 10396,
+		"status" : "Shipped",
+		"customer_id" : 124,
+		"order_date_key" : 20050323,
+		"required_date_key" : 20050402,
+		"shipped_date_key" : 20050328
+	},
+	{
+		"order_key" : 298,
+		"order_id" : 10397,
+		"status" : "Shipped",
+		"customer_id" : 242,
+		"order_date_key" : 20050328,
+		"required_date_key" : 20050409,
+		"shipped_date_key" : 20050401
+	},
+	{
+		"order_key" : 299,
+		"order_id" : 10398,
+		"status" : "Shipped",
+		"customer_id" : 353,
+		"order_date_key" : 20050330,
+		"required_date_key" : 20050409,
+		"shipped_date_key" : 20050331
+	},
+	{
+		"order_key" : 300,
+		"order_id" : 10399,
+		"status" : "Shipped",
+		"customer_id" : 496,
+		"order_date_key" : 20050401,
+		"required_date_key" : 20050412,
+		"shipped_date_key" : 20050403
+	},
+	{
+		"order_key" : 301,
+		"order_id" : 10400,
+		"status" : "Shipped",
+		"customer_id" : 450,
+		"order_date_key" : 20050401,
+		"required_date_key" : 20050411,
+		"shipped_date_key" : 20050404
+	},
+	{
+		"order_key" : 302,
+		"order_id" : 10401,
+		"status" : "On Hold",
+		"customer_id" : 328,
+		"order_date_key" : 20050403,
+		"required_date_key" : 20050414,
+		"shipped_date_key" : null
+	},
+	{
+		"order_key" : 303,
+		"order_id" : 10402,
+		"status" : "Shipped",
+		"customer_id" : 406,
+		"order_date_key" : 20050407,
+		"required_date_key" : 20050414,
+		"shipped_date_key" : 20050412
+	},
+	{
+		"order_key" : 304,
+		"order_id" : 10403,
+		"status" : "Shipped",
+		"customer_id" : 201,
+		"order_date_key" : 20050408,
+		"required_date_key" : 20050418,
+		"shipped_date_key" : 20050411
+	},
+	{
+		"order_key" : 305,
+		"order_id" : 10404,
+		"status" : "Shipped",
+		"customer_id" : 323,
+		"order_date_key" : 20050408,
+		"required_date_key" : 20050414,
+		"shipped_date_key" : 20050411
+	},
+	{
+		"order_key" : 306,
+		"order_id" : 10405,
+		"status" : "Shipped",
+		"customer_id" : 209,
+		"order_date_key" : 20050414,
+		"required_date_key" : 20050424,
+		"shipped_date_key" : 20050420
+	},
+	{
+		"order_key" : 307,
+		"order_id" : 10406,
+		"status" : "Disputed",
+		"customer_id" : 145,
+		"order_date_key" : 20050415,
+		"required_date_key" : 20050425,
+		"shipped_date_key" : 20050421
+	},
+	{
+		"order_key" : 308,
+		"order_id" : 10407,
+		"status" : "On Hold",
+		"customer_id" : 450,
+		"order_date_key" : 20050422,
+		"required_date_key" : 20050504,
+		"shipped_date_key" : null
+	},
+	{
+		"order_key" : 309,
+		"order_id" : 10408,
+		"status" : "Shipped",
+		"customer_id" : 398,
+		"order_date_key" : 20050422,
+		"required_date_key" : 20050429,
+		"shipped_date_key" : 20050427
+	},
+	{
+		"order_key" : 310,
+		"order_id" : 10409,
+		"status" : "Shipped",
+		"customer_id" : 166,
+		"order_date_key" : 20050423,
+		"required_date_key" : 20050505,
+		"shipped_date_key" : 20050424
+	},
+	{
+		"order_key" : 311,
+		"order_id" : 10410,
+		"status" : "Shipped",
+		"customer_id" : 357,
+		"order_date_key" : 20050429,
+		"required_date_key" : 20050510,
+		"shipped_date_key" : 20050430
+	},
+	{
+		"order_key" : 312,
+		"order_id" : 10411,
+		"status" : "Shipped",
+		"customer_id" : 233,
+		"order_date_key" : 20050501,
+		"required_date_key" : 20050508,
+		"shipped_date_key" : 20050506
+	},
+	{
+		"order_key" : 313,
+		"order_id" : 10412,
+		"status" : "Shipped",
+		"customer_id" : 141,
+		"order_date_key" : 20050503,
+		"required_date_key" : 20050513,
+		"shipped_date_key" : 20050505
+	},
+	{
+		"order_key" : 314,
+		"order_id" : 10413,
+		"status" : "Shipped",
+		"customer_id" : 175,
+		"order_date_key" : 20050505,
+		"required_date_key" : 20050514,
+		"shipped_date_key" : 20050509
+	},
+	{
+		"order_key" : 315,
+		"order_id" : 10414,
+		"status" : "On Hold",
+		"customer_id" : 362,
+		"order_date_key" : 20050506,
+		"required_date_key" : 20050513,
+		"shipped_date_key" : null
+	},
+	{
+		"order_key" : 316,
+		"order_id" : 10415,
+		"status" : "Disputed",
+		"customer_id" : 471,
+		"order_date_key" : 20050509,
+		"required_date_key" : 20050520,
+		"shipped_date_key" : 20050512
+	},
+	{
+		"order_key" : 317,
+		"order_id" : 10416,
+		"status" : "Shipped",
+		"customer_id" : 386,
+		"order_date_key" : 20050510,
+		"required_date_key" : 20050516,
+		"shipped_date_key" : 20050514
+	},
+	{
+		"order_key" : 318,
+		"order_id" : 10417,
+		"status" : "Disputed",
+		"customer_id" : 141,
+		"order_date_key" : 20050513,
+		"required_date_key" : 20050519,
+		"shipped_date_key" : 20050519
+	},
+	{
+		"order_key" : 319,
+		"order_id" : 10418,
+		"status" : "Shipped",
+		"customer_id" : 412,
+		"order_date_key" : 20050516,
+		"required_date_key" : 20050524,
+		"shipped_date_key" : 20050520
+	},
+	{
+		"order_key" : 320,
+		"order_id" : 10419,
+		"status" : "Shipped",
+		"customer_id" : 382,
+		"order_date_key" : 20050517,
+		"required_date_key" : 20050528,
+		"shipped_date_key" : 20050519
+	},
+	{
+		"order_key" : 321,
+		"order_id" : 10420,
+		"status" : "In Process",
+		"customer_id" : 282,
+		"order_date_key" : 20050529,
+		"required_date_key" : 20050607,
+		"shipped_date_key" : null
+	},
+	{
+		"order_key" : 322,
+		"order_id" : 10421,
+		"status" : "In Process",
+		"customer_id" : 124,
+		"order_date_key" : 20050529,
+		"required_date_key" : 20050606,
+		"shipped_date_key" : null
+	},
+	{
+		"order_key" : 323,
+		"order_id" : 10422,
+		"status" : "In Process",
+		"customer_id" : 157,
+		"order_date_key" : 20050530,
+		"required_date_key" : 20050611,
+		"shipped_date_key" : null
+	},
+	{
+		"order_key" : 324,
+		"order_id" : 10423,
+		"status" : "In Process",
+		"customer_id" : 314,
+		"order_date_key" : 20050530,
+		"required_date_key" : 20050605,
+		"shipped_date_key" : null
+	},
+	{
+		"order_key" : 325,
+		"order_id" : 10424,
+		"status" : "In Process",
+		"customer_id" : 141,
+		"order_date_key" : 20050531,
+		"required_date_key" : 20050608,
+		"shipped_date_key" : null
+	},
+	{
+		"order_key" : 326,
+		"order_id" : 10425,
+		"status" : "In Process",
+		"customer_id" : 119,
+		"order_date_key" : 20050531,
+		"required_date_key" : 20050607,
+		"shipped_date_key" : null
+	}
+]
